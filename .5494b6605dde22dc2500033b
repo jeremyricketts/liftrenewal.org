@@ -1,5 +1,5 @@
 ---
-time: 1419376981
+time: 1419377618
 inventory:
   /index/index.html:
     md5: ad0bb407ae32d8fc881f6c2f6e84f7f3
@@ -14,8 +14,8 @@ inventory:
     md5: 8a39280b5963e81d726847496b856ba6
     time: 1419376276
   /blog/index.html:
-    md5: c65188416bfc6e36f7ae8f8fc3569a33
-    time: 1419376276
+    md5: 203b5b15299de4c9c0ca98f206572e66
+    time: 1419377617
   /blog/a-distinguishing-birthmark/index.html:
     md5: 513a8877f15a067fcd587621ceb7c3d4
     time: 1419376276
@@ -44,11 +44,11 @@ inventory:
     md5: 26fff83923cb4d3aa4661396c7c7eeb6
     time: 1419376276
   /sitemap.xml:
-    md5: 170c61def60641bdc55d9407edbf40c1
-    time: 1419376981
+    md5: 64e2e1bfe70388e7df3c7110e8f7d667
+    time: 1419377618
   /feed.xml:
-    md5: b6cc9013c271a04070638e89d402bd28
-    time: 1419376981
+    md5: 9858d80baa149610ec2f7a13437c2b33
+    time: 1419377618
   /style.css:
     md5: 9187a6775bdce8f1f2143accea89ba6c
     time: 1419376276

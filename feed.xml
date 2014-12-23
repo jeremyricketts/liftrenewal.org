@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Lift Renewal</title>
+    <link>http://liftrenewal.siteleaf.net</link>
+    <pubDate>Tue, 23 Dec 2014 23:11:16 +0000</pubDate>
+    
+    <item>
+      <title>A Distinguishing Birthmark</title>
+      <link>http://liftrenewal.siteleaf.net/blog/a-distinguishing-birthmark</link>
+      <pubDate>Mon, 15 Dec 2014 15:59:00 -0800</pubDate>
+      <author>Jeremy Ricketts</author>
+      <guid>http://liftrenewal.siteleaf.net/blog/a-distinguishing-birthmark</guid>
+      <description>&lt;p&gt;Blog post&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>God at Work Within Us</title>
+      <link>http://liftrenewal.siteleaf.net/blog/god-at-work-within-us</link>
+      <pubDate>Wed, 12 Nov 2014 16:02:00 -0800</pubDate>
+      <author>Jeremy Ricketts</author>
+      <guid>http://liftrenewal.siteleaf.net/blog/god-at-work-within-us</guid>
+      <description>&lt;p&gt;Blog post 2 yo!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>It’s the Little Things</title>
+      <link>http://liftrenewal.siteleaf.net/blog/its-the-little-things</link>
+      <pubDate>Tue, 14 Oct 2014 16:32:00 -0700</pubDate>
+      <author>Jeremy Ricketts</author>
+      <guid>http://liftrenewal.siteleaf.net/blog/its-the-little-things</guid>
+      <description>&lt;p&gt;Another blog posty&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

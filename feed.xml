@@ -3,7 +3,37 @@
   <channel>
     <title>Lift Renewal</title>
     <link>http://liftrenewal.siteleaf.net</link>
-    <pubDate>Tue, 23 Dec 2014 23:33:38 +0000</pubDate>
+    <pubDate>Tue, 30 Dec 2014 05:35:39 +0000</pubDate>
+    
+    <item>
+      <title>Valentines Day</title>
+      <link>http://liftrenewal.siteleaf.net/events/v-day</link>
+      <pubDate>Sat, 28 Feb 2015 09:00:00 -0800</pubDate>
+      <author>Jeremy Ricketts</author>
+      <guid>http://liftrenewal.siteleaf.net/events/v-day</guid>
+      <description>&lt;p&gt;This is the big one. At 9am.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>NY Eve</title>
+      <link>http://liftrenewal.siteleaf.net/events/ny-eve</link>
+      <pubDate>Wed, 31 Dec 2014 12:00:00 -0800</pubDate>
+      <author>Jeremy Ricketts</author>
+      <guid>http://liftrenewal.siteleaf.net/events/ny-eve</guid>
+      <description>&lt;p&gt;The NY Eve test kicks off at noon!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Old Event Yo</title>
+      <link>http://liftrenewal.siteleaf.net/events/old-event-yo</link>
+      <pubDate>Sat, 20 Dec 2014 16:33:00 -0800</pubDate>
+      <author>Jeremy Ricketts</author>
+      <guid>http://liftrenewal.siteleaf.net/events/old-event-yo</guid>
+      <description>&lt;p&gt;Shouldn&amp;rsquo;t show.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>A Distinguishing Birthmark</title>

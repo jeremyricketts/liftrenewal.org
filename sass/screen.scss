@@ -111,14 +111,14 @@ header {
 	background-repeat: no-repeat;
 	background-position: top center;
 	text-align: center;
-	padding:80px 0 0 0;
+	padding:80px 0 10px 0;
 	color: $baseColor;
 	a, a:visited {
 		color:$baseColor;
 	}
 	h1 { //logo
 		font-family: $fontSpecial;
-		margin:0;
+		margin:0 0 10px 0;
 		a {
 			text-decoration: none;
 			font-weight: 400;
@@ -129,6 +129,9 @@ header {
 	.tagline {
 		margin:0 0 60px 0;
 		@extend .elegantType;
+		color: darken($brandColor, 30%);
+		text-shadow: 0 0 3px rgba(255,255,255,.3);
+		font-size: 1.2rem;
 	}
 }
 
@@ -335,18 +338,34 @@ footer {
 // BLOG
 .articleList {
 	article {
+		@include clearfix;
 		border-bottom:2px solid darken($baseColor, 4%);
 		.date {
 			color: lighten($textColor, 30%);
 		} 
+		.photo {
+			float: right;
+			margin-top:30px;
+			width: auto;
+			max-width: 40%;
+			max-height: 100px;
+			margin-left: 10px;
+		}
 	}
 }
-.backBlog {
+.backPage {
 	text-decoration:none;
 }
 .blogMeta {
 	color: lighten($textColor, 30%);
 	text-align: right;
+}
+.contentBlogEntry {
+	.photo {
+		float: right;
+		width: 40%;
+		margin-left: 10px;
+	}
 }
 
 // DONATE

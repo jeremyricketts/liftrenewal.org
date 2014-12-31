@@ -1,15 +1,15 @@
 ---
-time: 1419985187
+time: 1419991851
 inventory:
   /index/index.html:
-    md5: 02a9f10c251aa556b801c0f8ab5f87b0
-    time: 1419980481
+    md5: 5fb5d3855c71162c365222ff9827e43f
+    time: 1419991830
   /index.html:
-    md5: 02a9f10c251aa556b801c0f8ab5f87b0
-    time: 1419980481
+    md5: 5fb5d3855c71162c365222ff9827e43f
+    time: 1419991830
   /about/index.html:
-    md5: c532ac788f5d4aeb5d24087eec8893ea
-    time: 1419980482
+    md5: a3a7a30b2d42d3f261a7958b6b1fee16
+    time: 1419991830
   /events/index.html:
     md5: add85cb45460294f6cdf7f9ccf374a31
     time: 1419980482
@@ -29,69 +29,78 @@ inventory:
     md5: f07b09f7f99cc4d302547e18531df788
     time: 1419980482
   /blog/index.html:
-    md5: f5b06fcd17aed7968c126dfeb4586cb0
-    time: 1419980482
+    md5: cf44eabe6169b878453011177406ac2f
+    time: 1419991831
   /blog/a-distinguishing-birthmark/index.html:
-    md5: f4b74205b7508d0005b5b15e5cea2186
-    time: 1419980482
+    md5: ddb64808ff6b448ce1e09a1f50073ed6
+    time: 1419991831
   /blog/god-at-work-within-us/index.html:
-    md5: d2ac323aa1598a2f269efa68adb2c234
-    time: 1419980482
+    md5: e333be3985c56ea08351e3486c5be0a3
+    time: 1419991831
   /blog/its-the-little-things/index.html:
-    md5: 18e60737eb0cd4053a4dec2f05cfe259
-    time: 1419980482
+    md5: 4fc6e660d24a2310a423360b8eb87354
+    time: 1419991831
   /blog/big-changes-at-lift/index.html:
-    md5: ad02fd182406cd5753667667588b3a47
-    time: 1419985183
+    md5: 1a48bddddd45f5652529cbf75d8c854e
+    time: 1419991831
   /blog/disciples-are-sent-to-bear-fruit/index.html:
-    md5: 08b1102943dde2f64d755cf0e5c2aaff
-    time: 1419985183
+    md5: f6f020e7e260b2dec7a93962a2a75fab
+    time: 1419991831
   /blog/almost-there-again/index.html:
-    md5: f590029159c9716ea78f011af8872668
-    time: 1419985183
+    md5: 1fbf43a5164c339b057c3910d3772911
+    time: 1419991831
   /blog/holy-week-confession/index.html:
-    md5: 075129ba523d850f907a3eac909ece26
-    time: 1419985183
+    md5: 2de98595fadf7d0005caea1e12eb9ade
+    time: 1419991831
   /blog/the-passion-for-holiness/index.html:
-    md5: 07d07075a35ad6356f5c707f1d818ea2
-    time: 1419985183
+    md5: b42f9196ca30f44faf51f9579230b839
+    time: 1419991831
   /blog/got-rhythm/index.html:
-    md5: 8e5074ebc66d16978e0f0d4c27bd271e
-    time: 1419985183
+    md5: 0059a7d02c0aac36a31ca59d9b3ab06f
+    time: 1419991831
   /blog/building-up-the-body-of-christ/index.html:
-    md5: d19556350a1750b093bb5b5d958cde0d
-    time: 1419985183
+    md5: 03d56d12cc842c892f086a92d0707800
+    time: 1419991831
   /blog/archive/index.html:
-    md5: f444a133bd573df4b52b201d1bac8ffa
-    time: 1419980483
+    md5: 3620261c0ee83640db9b78227937eadd
+    time: 1419991832
   /blog/tags/index.html:
-    md5: e40c25ea7958a813ea31dc84a9d60684
-    time: 1419980483
+    md5: c6f0b69f64581da73c824186a4285978
+    time: 1419991832
   /donate/index.html:
-    md5: 16ddb8872d195442ea2a23b1b58e2610
-    time: 1419980483
+    md5: c066a48fc240d99793db22a53f1864aa
+    time: 1419991832
   /contact/index.html:
     md5: dcb07059ddab5605780b93ecfe44b48a
     time: 1419980483
   /about/3-day-renewal-experiences/index.html:
-    md5: 6149dac1752c9c0e8a81f9cb42c1b264
-    time: 1419980483
+    md5: d9b359293047f31a4828cdffea21cb17
+    time: 1419991832
+  /about/lectionary-reading-weeks-for-preachers/index.html:
+    md5: fabc0fb0fd0ec1b7bda37edcf40b0f2a
+    time: 1419991832
+  /about/leadership-retreats-and-training/index.html:
+    md5: 92bd55274934d5c08fe5983ebc0c2060
+    time: 1419991832
+  /about/coaching-for-clergy/index.html:
+    md5: 0cc8247826229adb1a2cbf61ec5c6e74
+    time: 1419991832
+  /about/conferences/index.html:
+    md5: 3a413ed81aba0830ae80733b0d096ea1
+    time: 1419991832
   /CNAME:
     md5: 26fff83923cb4d3aa4661396c7c7eeb6
     time: 1419376276
   /sitemap.xml:
-    md5: b28f941cc55472916ab44bcdec944149
-    time: 1419985183
+    md5: ef48e630af001983497a1d050d5d3cda
+    time: 1419991832
   /feed.xml:
-    md5: 8077306e6b6bdbea2baa5cf5eb5465d6
-    time: 1419985183
+    md5: 71f12ac05040f810b01f3ab36f8ff95a
+    time: 1419991832
   /style.css:
     md5: 9187a6775bdce8f1f2143accea89ba6c
     time: 1419376276
   /assets/dom.jpg:
-    md5: 772b11f8dcd00ab25cd1a5ed90f0cf5e
-    time: 1419917740
-  /assets/dom-1.jpg:
     md5: 772b11f8dcd00ab25cd1a5ed90f0cf5e
     time: 1419917740
   /assets/5247745985_416dcbb8c7_o.jpg:
@@ -120,9 +129,6 @@ inventory:
     time: 1419980484
   /css/print.css:
     md5: 4583ffae7a2f26754f6b3d0f10655e8b
-    time: 1419980485
-  /css/screen.css:
-    md5: dfbe0f36379bc6aa6253c161aacfb7e4
     time: 1419980485
   /favicon.ico:
     md5: cb4b8169025fdb661a203fa681a468ec
@@ -175,9 +181,6 @@ inventory:
   /sass/print.scss:
     md5: 4583ffae7a2f26754f6b3d0f10655e8b
     time: 1419980488
-  /sass/screen.scss:
-    md5: a05295badde3b2b368283aae938e70c1
-    time: 1419980488
   /assets/5e35aafd2807f71e2d8b4c340e8bd7c7c4c2f694.jpg:
     md5: 0e261e6e7c3aa8f9737661dff0f2bace
     time: 1419985184
@@ -193,9 +196,66 @@ inventory:
   /assets/36bc9b3c89db25a84150ea0d25f2a0ce48f6225d.jpg:
     md5: 4a3c8b86769ecc7bba2a3260ea8023ac
     time: 1419985185
+  /assets/DSCN0867.JPG:
+    md5: e414d032a3d2c212cd98eaf5632912d4
+    time: 1419991833
+  /assets/f5a92a3c59fea4a7f277c8d04d5fd990a970fbe3.jpg:
+    md5: 6572a0dcf2a4ad35e5a4b937c913a251
+    time: 1419991833
+  /assets/9097bd936ff51ec971b694c4bea7fa42dd19b86e.jpg:
+    md5: bde67ee85492a050c1fd43833819eecb
+    time: 1419991833
+  /css/screen.css:
+    md5: 7496211ec33ec14843bebe11db5c1f3d
+    time: 1419991833
+  /sass/screen.scss:
+    md5: c942758c5f5ede7ac6ea63d0c9e2e899
+    time: 1419991834
   /assets/4858957457_3eb7ea708a_o.jpg:
     md5: 686e5f1ccbf08f6cd27731b23ccf1a8d
     time: 1419926409
+  /assets/DSCN0936.JPG:
+    md5: 46eb280b082442886e081bed28517f7d
+    time: 1419991834
+  /assets/2014_Reading_Week_Brochure.pdf:
+    md5: ff5c7590609614a45271e7ba7bbda79a
+    time: 1419991835
   /assets/4782382020_54dfb2dbfe_o.jpg:
     md5: aab12dd76c0981c3a9d259b9d6091b04
     time: 1419926408
+  /assets/DSCN0905.JPG:
+    md5: c506006570dbc8135d752096c897a295
+    time: 1419991835
+  /assets/DSCN0981.JPG:
+    md5: b9aeb57bae37876f731db6f480e7c12e
+    time: 1419991836
+  /assets/4b6d8613d103d49157a59725523e6f7ad8ad7362.jpg:
+    md5: 357a197197d2d0606580956ccbf9dd0f
+    time: 1419991836
+  /assets/1b9fd2b396aaa89c03fed64037f400df19979927.jpg:
+    md5: 6460364a7a1d0c42bf266100d93f9c15
+    time: 1419991836
+  /assets/8abe57bf7364e9571aa84de86a7f3b1385ad7c4c.jpg:
+    md5: d9ae4fad40d225855cec49e4137a89b6
+    time: 1419991837
+  /assets/73e744fca5403846942b1cf2dd089e61eca17d5a.jpg:
+    md5: 8409dce87fbc4c914b1d7a48a7f56f54
+    time: 1419991837
+  /assets/692c96aea350ab5d116367e044bcf442fa727b5a.jpg:
+    md5: d121d1701cd664a592bed67349adc87b
+    time: 1419991838
+  /assets/837c4dc1762d7fe2fba644bff98f130074dd4fb1.jpg:
+    md5: 397d910576b895b4aa107f1473961a84
+    time: 1419991838
+  /assets/a41465a9b5f5f9819799a21d5c19c6721ce9601e.jpg:
+    md5: d6850765e13fb7823862955cd0382bcc
+    time: 1419991839
+  /assets/a465972b90646a31443ec94ab9a5e34b9582d99f.jpg:
+    md5: afdbe5e33b9efb72a84a017459f1680c
+    time: 1419991839
+  /assets/b5ecae7dcdb8ca1a7ebe89c82224626acaacb57f.jpg:
+    md5: 50879b9117a66c06a19e10817e439134
+    time: 1419991840
+  /assets/f81deb07e20a7c30487a78065e0506673da8cae6.jpg:
+    md5: 474e0c0eac1e6af86efe88336c51766d
+    time: 1419991840

@@ -17,25 +17,31 @@
 
   <url>
     <loc>http://liftrenewal.siteleaf.net/events</loc>
-    <lastmod>2014-12-30T12:26:32+00:00</lastmod>
+    <lastmod>2014-12-31T04:11:23+00:00</lastmod>
     <priority>1.0</priority>
   </url>
   
   <url>
+    <loc>http://liftrenewal.siteleaf.net/events/march-event</loc>
+    <lastmod>2014-12-31T07:24:11+00:00</lastmod>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>http://liftrenewal.siteleaf.net/events/v-day</loc>
-    <lastmod>2014-12-27T02:19:16+00:00</lastmod>
+    <lastmod>2014-12-31T06:31:45+00:00</lastmod>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://liftrenewal.siteleaf.net/events/ny-eve</loc>
-    <lastmod>2014-12-26T23:26:53+00:00</lastmod>
+    <loc>http://liftrenewal.siteleaf.net/events/inland-empire-prayer-walking</loc>
+    <lastmod>2014-12-31T07:48:30+00:00</lastmod>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://liftrenewal.siteleaf.net/events/old-event-yo</loc>
-    <lastmod>2014-12-24T00:33:26+00:00</lastmod>
+    <loc>http://liftrenewal.siteleaf.net/events/christmas-day</loc>
+    <lastmod>2014-12-31T06:33:27+00:00</lastmod>
     <priority>0.5</priority>
   </url>
   

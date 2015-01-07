@@ -1,0 +1,74 @@
+{% include 'includes/header' %}
+{% include 'includes/nav' %}
+
+    {% if type != "post" %}
+    <div class="content contentMain articleList contentNarrow container">
+
+      <h1>LIFT Renewal Blog</h1>
+      
+      {% for post in site.pages.blog.posts %}
+      <article>
+        {% for asset in post.assets %}
+          {% if asset.type == 'image' %}
+          <img class="photo" src="{{asset.url}}">
+          {% elsif asset.type == 'audio' %}
+          <audio><source src="{{asset.url}}" type="{{asset.content_type}}"></audio>
+          {% elsif asset.type == 'video' %}
+          <video><source src="{{asset.url}}" type="{{asset.content_type}}"></video>
+          {% elsif asset.type == 'other' %}
+          <a href="{{asset.url}}">Download {{asset.filename}}</a>
+          {% endif %}
+        {% endfor %}
+        <h3><a href="{{post.url}}">{{post.title}}</a> <span class="date">{{post.date | date: "%b %d, %Y"}}</span></h3>
+        <p>{{post.body | strip_html | truncatewords: 50}}</p>
+        <p><a href="{{post.url}}" class="btn">Read</a></p>
+      </article>
+      {% endfor %}
+      
+    </div><!-- /content -->
+    {% endif %}
+
+    {% if type == "post" %}
+    <div class="content contentMain contentNarrow container contentBlogEntry">
+
+      <a class="backPage" href="/blog"><i class="fa fa-chevron-left"></i> All posts</a>
+
+      <h1>{{title}}</h1>
+
+      {% for asset in assets %}
+        {% if asset.type == 'image' %}
+        <img class="photo" src="{{asset.url}}">
+        {% elsif asset.type == 'audio' %}
+        <audio><source src="{{asset.url}}" type="{{asset.content_type}}"></audio>
+        {% elsif asset.type == 'video' %}
+        <video><source src="{{asset.url}}" type="{{asset.content_type}}"></video>
+        {% elsif asset.type == 'other' %}
+        <a href="{{asset.url}}">Download {{asset.filename}}</a>
+        {% endif %}
+      {% endfor %}
+
+      {{body}}
+
+      <p class="blogMeta">{{ date  | date: "%B %d, %Y"}}</p>
+
+      <!-- upgrade Siteleaf account to do this:
+      <p class="blogMeta">{{ date  | date: "%B %d, %Y"}} by {{author}}</p>
+      -->
+
+      <div id="disqus_thread"></div>
+      <script type="text/javascript">
+          /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+          var disqus_shortname = 'liftrenewalministries'; // required: replace example with your forum shortname
+
+          /* * * DON'T EDIT BELOW THIS LINE * * */
+          (function() {
+              var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+              dsq.src = 'http://' + disqus_shortname + '.disqus.com/embed.js';
+              (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+          })();
+      </script>
+
+    </div><!-- /content -->
+    {% endif %}
+
+{% include 'includes/footer' %}

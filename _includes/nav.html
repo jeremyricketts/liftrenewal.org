@@ -1,0 +1,18 @@
+      <header>
+
+        <div class="container">
+          
+          <!-- Logo area -->
+          <img src="/img/lift-renewal-ministries-logo.png" width="54" height="54">
+          <h1><a href="/">{{site.title}}</a></h1>
+          <p class="tagline">Cultivating Pathways for Discipleship to Jesus Christ</p>
+
+          <ul class="nav hor-list">
+          {% for page in site.pages %}
+            <li><a href="{{page.url}}"{% if page.url == url %} class="active"{% endif %}>{{page.title}}</a></li>
+          {% endfor %}
+          </ul>
+
+        </div><!-- /container -->
+
+      </header>

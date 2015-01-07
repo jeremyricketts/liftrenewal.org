@@ -1,0 +1,40 @@
+{% include 'includes/header' %}
+{% include 'includes/nav' %}
+
+
+
+    {% if type == "page" %}
+    
+    <div class="content withSidebar container">
+
+        {% if parent %}
+            <a class="backPage" href="/about"><i class="fa fa-chevron-left"></i> Back</a>
+        {% endif %}
+
+      <h1>About LIFT</h1>
+
+      <div class="contentMain">
+        
+        {{ body }}
+
+      </div>
+
+      <div class="contentSidebar">
+        {% for asset in assets %}
+          {% if asset.type == 'image' %}
+          <img src="{{asset.url}}">
+          {% elsif asset.type == 'audio' %}
+          <audio><source src="{{asset.url}}" type="{{asset.content_type}}"></audio>
+          {% elsif asset.type == 'video' %}
+          <video><source src="{{asset.url}}" type="{{asset.content_type}}"></video>
+          {% elsif asset.type == 'other' %}
+            <a href="{{asset.url}}" class="btn"><i class="fa fa-cloud-download"></i> Download {{asset.filename}}</a>
+          {% endif %}
+        {% endfor %}
+      </div>
+
+    </div><!-- /container -->
+
+    {% endif %}
+
+{% include 'includes/footer' %}

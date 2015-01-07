@@ -1,5 +1,5 @@
 ---
-time: 1420013232
+time: 1420610586
 inventory:
   /index/index.html:
     md5: 0966c5eb098bd1697a13ad4b6b2cd110
@@ -74,8 +74,8 @@ inventory:
     md5: c066a48fc240d99793db22a53f1864aa
     time: 1419991832
   /contact/index.html:
-    md5: 313d693c0b9304c6ca904a11c3b950bf
-    time: 1420013228
+    md5: 98094fd913f5724194108f9e5512e06a
+    time: 1420610585
   /about/3-day-renewal-experiences/index.html:
     md5: d9b359293047f31a4828cdffea21cb17
     time: 1419991832
@@ -98,8 +98,8 @@ inventory:
     md5: e3bea4fba8b1a1ca0253692734631710
     time: 1420012851
   /feed.xml:
-    md5: 46e36582dc73498c718c0dcc7f51cf2b
-    time: 1420013228
+    md5: 6201b0950e913092426c592b265a4613
+    time: 1420610586
   /assets/dom.jpg:
     md5: 772b11f8dcd00ab25cd1a5ed90f0cf5e
     time: 1419917740
@@ -220,6 +220,9 @@ inventory:
   /sass/screen.scss:
     md5: 9f22be0ed6c5f43e86c6028aae17bec1
     time: 1420013229
+  /README.md:
+    md5: fa873c1d9f89a4c93e813ac88c007f27
+    time: 1420610586
   /assets/4858957457_3eb7ea708a_o.jpg:
     md5: 686e5f1ccbf08f6cd27731b23ccf1a8d
     time: 1419926409

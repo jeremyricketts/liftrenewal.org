@@ -1,5 +1,5 @@
 ---
-time: 1420684923
+time: 1420695100
 inventory:
   /index/index.html:
     md5: 1a6bf1e3de3bcc79ab4794f8322cf2d2
@@ -86,14 +86,14 @@ inventory:
     md5: 3a413ed81aba0830ae80733b0d096ea1
     time: 1419991832
   /CNAME:
-    md5: 26fff83923cb4d3aa4661396c7c7eeb6
-    time: 1419376276
+    md5: 053e51cc6ecf1f37a1105667ba3def74
+    time: 1420695099
   /sitemap.xml:
-    md5: 99e60e27d193be641c3897b16984e0ab
-    time: 1420664687
+    md5: 673b8d380f6c0aa808e283b76cb46257
+    time: 1420695099
   /feed.xml:
-    md5: 93a38553cdb409bd7678df1bf3f09325
-    time: 1420684921
+    md5: 095863194eb2691d430453c643092293
+    time: 1420695099
   /apple-touch-icon-114x114-precomposed.png:
     md5: 4b32f9176044704b1d5b97479282a2fc
     time: 1419980483

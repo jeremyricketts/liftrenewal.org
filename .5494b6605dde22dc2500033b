@@ -1,5 +1,5 @@
 ---
-time: 1421104580
+time: 1421778669
 inventory:
   /index/index.html:
     md5: 58d5ae3fc3a65d049620ec383a5e6563
@@ -13,6 +13,9 @@ inventory:
   /events/index.html:
     md5: e93b976cb6964549783fee0b6130896d
     time: 1421104577
+  /events/prayer-walking/index.html:
+    md5: 6c0583a80088cd6bdebaf6b96c17ea5f
+    time: 1421778664
   /events/prayer-walk-at-st-pauls-umc/index.html:
     md5: 2fc0feb156a2676ca1b23cca06c7867c
     time: 1421104577
@@ -28,14 +31,20 @@ inventory:
   /events/tags/index.html:
     md5: d1863341949da62add3eb297110d74f3
     time: 1421104577
+  /events/tags/prayer-walking/index.html:
+    md5: 309b8f899e72a6834b4f918ce0d7a930
+    time: 1421778665
+  /events/tags/inland-empire/index.html:
+    md5: 3b73ee1365579af57a1c105dc9ae5596
+    time: 1421778665
+  /events/tags/san-bernardino/index.html:
+    md5: 4504ecbef73feee37cedf0bad72705fd
+    time: 1421104578
   /events/tags/prayer-walk/index.html:
     md5: 8d48a92c2e5ce058455c890466b726b3
     time: 1421104577
   /events/tags/st-pauls-umc/index.html:
     md5: d95b0d28c17b7138ba6f29205cff803d
-    time: 1421104578
-  /events/tags/san-bernardino/index.html:
-    md5: 4504ecbef73feee37cedf0bad72705fd
     time: 1421104578
   /blog/index.html:
     md5: cf44eabe6169b878453011177406ac2f
@@ -101,11 +110,11 @@ inventory:
     md5: 053e51cc6ecf1f37a1105667ba3def74
     time: 1420695099
   /sitemap.xml:
-    md5: 5833baaede98c5ffba881e2d231ff7ff
-    time: 1421104579
+    md5: 187036a65791ba3cf8c1dc6cd978e643
+    time: 1421778667
   /feed.xml:
-    md5: 1a75fc65e8d97377103a04d3cbae53b1
-    time: 1421104579
+    md5: d59bf22a579e6a1bbe1a7a1c861e3d2f
+    time: 1421778668
   /apple-touch-icon-114x114-precomposed.png:
     md5: 4b32f9176044704b1d5b97479282a2fc
     time: 1419980483
@@ -223,6 +232,9 @@ inventory:
   /sass/screen.scss:
     md5: c652858850d6e544fc7a96fbc95bcc23
     time: 1420767254
+  /assets/PW logo.jpg:
+    md5: 9e8129833794da0e43c5b7e7ebbbdc28
+    time: 1421778668
   /assets/2014_Reading_Week_Brochure.pdf:
     md5: ff5c7590609614a45271e7ba7bbda79a
     time: 1419991835

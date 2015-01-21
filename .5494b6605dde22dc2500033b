@@ -1,5 +1,5 @@
 ---
-time: 1421868339
+time: 1421868562
 inventory:
   /index/index.html:
     md5: f458c1c1569a6ee28e816116cc246588
@@ -20,8 +20,8 @@ inventory:
     md5: f4c179cb9c118b0d83df55ad9cf66f5d
     time: 1421781542
   /events/clergy-class-meetings/index.html:
-    md5: 453bd193fe1b95b6e13b8a39628e7a70
-    time: 1421868332
+    md5: 0ec2938839d8f80a5eaee89f5fcc5020
+    time: 1421868559
   /events/prayer-walk-at-st-pauls-umc/index.html:
     md5: 2fc0feb156a2676ca1b23cca06c7867c
     time: 1421104577
@@ -119,11 +119,11 @@ inventory:
     md5: 053e51cc6ecf1f37a1105667ba3def74
     time: 1420695099
   /sitemap.xml:
-    md5: 609127d2ebf34616e7245f3bc57092d1
-    time: 1421868334
+    md5: 8b28f8d96c926208ed9d2bc91c8388d1
+    time: 1421868561
   /feed.xml:
-    md5: dd53a6aa0cde0a2429a1fa572aa9b449
-    time: 1421868334
+    md5: b0b6570dc1c8671be97d9ab6a6a9642e
+    time: 1421868561
   /apple-touch-icon-114x114-precomposed.png:
     md5: 4b32f9176044704b1d5b97479282a2fc
     time: 1419980483

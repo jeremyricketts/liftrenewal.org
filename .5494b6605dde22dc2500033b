@@ -1,18 +1,21 @@
 ---
-time: 1424983646
+time: 1424984192
 inventory:
   /index/index.html:
-    md5: 86002641ee9bcbafea9b7491d919d942
-    time: 1424983642
+    md5: e97498b468876d33b398869216d64a9c
+    time: 1424984187
   /index.html:
-    md5: 86002641ee9bcbafea9b7491d919d942
-    time: 1424983642
+    md5: e97498b468876d33b398869216d64a9c
+    time: 1424984187
   /about/index.html:
     md5: bc530655bec7a33fc574b37f351cd8a9
     time: 1420753711
   /events/index.html:
-    md5: 1a517ab8c73bab7d1d38617e2ed74e5d
-    time: 1424983642
+    md5: a752ddbb2a06739d8d79ee4f9a08a3d3
+    time: 1424984187
+  /events/board-of-directors-annual-meeting/index.html:
+    md5: b3c6ed7a5b6a8d61ee8e543cb73261cd
+    time: 1424984187
   /events/prayer-walking-2-14-2015/index.html:
     md5: cd94eaf58b099144f6ab651a09203042
     time: 1424199459
@@ -32,29 +35,29 @@ inventory:
     md5: 6bbdffa7f49b35db970e67aa9d156b4c
     time: 1420013226
   /events/archive/index.html:
-    md5: 7c6e339fd26aacc7a8f28b22e8882627
-    time: 1424983643
+    md5: db41d49b271d1a84258f98de5f47e874
+    time: 1424984187
   /events/tags/index.html:
-    md5: 3817228724b800d26bbf4bdb53fa248e
-    time: 1424983643
+    md5: 348f95f49bd550d65752ddcde73da324
+    time: 1424984187
   /events/tags/ghana/index.html:
-    md5: db988ab754a3856b65e93fd4f9e3d75b
-    time: 1424983643
+    md5: 1de6281a8ce272966003466b7d1b7ac0
+    time: 1424984187
   /events/tags/mission/index.html:
-    md5: 7946b536590f8b62b99dfc8276d190f6
-    time: 1424983643
+    md5: 1b02437a122815797b407799d6560046
+    time: 1424984187
   /events/tags/lift-in-ghana/index.html:
-    md5: 2c3e6203385bb2cc9c22a246c8f87b23
-    time: 1424983643
+    md5: 949c2fcda56c8fd184a884a8a81d2fe9
+    time: 1424984188
   /events/tags/prayer-walk/index.html:
-    md5: 4d7acfa0f3ff9700a9da543416cf50ea
-    time: 1424983643
+    md5: 260e000892404dbf658bef5f6d0b1ed8
+    time: 1424984188
   /events/tags/st-pauls-umc/index.html:
-    md5: d56899bf6bc0673ff000f4f6015fb250
-    time: 1424983643
+    md5: 66d4fb9afe69e5c4d6242515c91a2f50
+    time: 1424984188
   /events/tags/san-bernardino/index.html:
-    md5: ba02f1d186564951563bc3d035c187a8
-    time: 1424983643
+    md5: cb3879bb766c4f9316798c99eacc034f
+    time: 1424984188
   /blog/index.html:
     md5: cf44eabe6169b878453011177406ac2f
     time: 1419991831
@@ -119,11 +122,11 @@ inventory:
     md5: 053e51cc6ecf1f37a1105667ba3def74
     time: 1420695099
   /sitemap.xml:
-    md5: 234ad1be6424fbf7881e6adfd30cb611
-    time: 1424983644
+    md5: 7bd01891db8108547c75a7888ec79839
+    time: 1424984189
   /feed.xml:
-    md5: 5f54c0b77989a5b93beb2b0d6a77cd77
-    time: 1424983644
+    md5: f25ade295b2d0fe89972c5bc542abad7
+    time: 1424984190
   /apple-touch-icon-114x114-precomposed.png:
     md5: 4b32f9176044704b1d5b97479282a2fc
     time: 1419980483

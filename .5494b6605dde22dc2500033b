@@ -1,27 +1,27 @@
 ---
-time: 1424283984
+time: 1424983557
 inventory:
   /index/index.html:
-    md5: c6cc6fde7758983be5e8484b38803b34
-    time: 1424199458
+    md5: d7d9f0af09a5a11398dde5b5fa26216d
+    time: 1424983550
   /index.html:
-    md5: c6cc6fde7758983be5e8484b38803b34
-    time: 1424199458
+    md5: d7d9f0af09a5a11398dde5b5fa26216d
+    time: 1424983550
   /about/index.html:
     md5: bc530655bec7a33fc574b37f351cd8a9
     time: 1420753711
   /events/index.html:
-    md5: 469b7198c2ae568692fbbf2387579b1c
-    time: 1424199458
+    md5: 64247a27f2408039800c73d7652c7498
+    time: 1424983551
   /events/prayer-walking-2-14-2015/index.html:
     md5: cd94eaf58b099144f6ab651a09203042
     time: 1424199459
+  /events/clergy-class-meetings-feb-2015/index.html:
+    md5: 1260f2234280767d391e519870945084
+    time: 1424983551
   /events/ghana-mission-meeting/index.html:
     md5: e3cba140ee94a069475b6ad11c510607
     time: 1424283981
-  /events/clergy-class-meetings-feb-2015/index.html:
-    md5: 0a93fd2fa684a99cc572274a16042828
-    time: 1424199245
   /events/prayer-walk-at-st-pauls-umc/index.html:
     md5: 2fc0feb156a2676ca1b23cca06c7867c
     time: 1421104577
@@ -32,29 +32,29 @@ inventory:
     md5: 6bbdffa7f49b35db970e67aa9d156b4c
     time: 1420013226
   /events/archive/index.html:
-    md5: baa07fe6a9d375ec85e7cab75f0f048b
-    time: 1424199459
+    md5: fdd4ecdac60b0f03fc4446d18111b18b
+    time: 1424983552
   /events/tags/index.html:
-    md5: b148d6738e3bfd7b85c9ac7be05f9488
-    time: 1424199459
+    md5: cf66ba065d12202e1a846dd086d19644
+    time: 1424983552
   /events/tags/ghana/index.html:
-    md5: 4e9729b03efde62f45533d4810da6ec5
-    time: 1424199459
+    md5: d5645b62eb1b6fd1d452ec0fdfcda538
+    time: 1424983552
   /events/tags/mission/index.html:
-    md5: 8377b52aadfbdf737c4949a3f8241b3e
-    time: 1424199459
+    md5: 43d0bb2e49b2a9eb4fe10de7e5d197cc
+    time: 1424983552
   /events/tags/lift-in-ghana/index.html:
-    md5: da3f1876ae68f7961ac83db9b9cbd790
-    time: 1424199459
+    md5: 100fea894d49dd04a85017abe817a047
+    time: 1424983553
   /events/tags/prayer-walk/index.html:
-    md5: 2a86d20f9699e7f6f3525fd49c243c1c
-    time: 1424199459
+    md5: 978fed48d64a36f0f7f3e3eb20827048
+    time: 1424983553
   /events/tags/st-pauls-umc/index.html:
-    md5: 837be7086ce2f1fe88685184e17e69c4
-    time: 1424199459
+    md5: cc9b67e93d4d5448f3285411ac5d9e79
+    time: 1424983553
   /events/tags/san-bernardino/index.html:
-    md5: 84e57ab796158616797471a19ef5981c
-    time: 1424199459
+    md5: 919a22bc56e910c38ee2118cfa72e0a8
+    time: 1424983553
   /blog/index.html:
     md5: cf44eabe6169b878453011177406ac2f
     time: 1419991831
@@ -119,11 +119,11 @@ inventory:
     md5: 053e51cc6ecf1f37a1105667ba3def74
     time: 1420695099
   /sitemap.xml:
-    md5: eb6e7290e19c097bf64cb4a3da8f5d2d
-    time: 1424283984
+    md5: 2858a3faac42082acb393ea38b672690
+    time: 1424983555
   /feed.xml:
-    md5: a5154f73ff4465429d2c964ab172a244
-    time: 1424283984
+    md5: 9675a9a2dd9d2902cb57d0823da49b55
+    time: 1424983555
   /apple-touch-icon-114x114-precomposed.png:
     md5: 4b32f9176044704b1d5b97479282a2fc
     time: 1419980483

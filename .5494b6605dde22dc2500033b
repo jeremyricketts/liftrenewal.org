@@ -1,12 +1,12 @@
 ---
-time: 1424986048
+time: 1424986190
 inventory:
   /index/index.html:
-    md5: 0563ef196d8b2fd501f9095c8bb721c3
-    time: 1424986045
+    md5: b2521d2f0ea66f3995bb19cbe522ff9f
+    time: 1424986187
   /index.html:
-    md5: 0563ef196d8b2fd501f9095c8bb721c3
-    time: 1424986045
+    md5: b2521d2f0ea66f3995bb19cbe522ff9f
+    time: 1424986187
   /about/index.html:
     md5: bc530655bec7a33fc574b37f351cd8a9
     time: 1420753711
@@ -20,8 +20,8 @@ inventory:
     md5: cd94eaf58b099144f6ab651a09203042
     time: 1424199459
   /events/ghana-mission-meeting/index.html:
-    md5: 6ba61f003949bd2b201b21cb15a78b41
-    time: 1424986045
+    md5: 458fb5fa897f6fae570a0c029939b80d
+    time: 1424986188
   /events/clergy-class-meetings-feb-2015/index.html:
     md5: 1260f2234280767d391e519870945084
     time: 1424983551
@@ -122,11 +122,11 @@ inventory:
     md5: 053e51cc6ecf1f37a1105667ba3def74
     time: 1420695099
   /sitemap.xml:
-    md5: 9fd9357fb955def62758b7b95ca72997
-    time: 1424986047
+    md5: 3b124cc1959218a19da505defc28bcdd
+    time: 1424986189
   /feed.xml:
-    md5: 343256f215c492f2e8f307eab35c4cd8
-    time: 1424986047
+    md5: b4bf4dd1401aae9f742724edd9a380c7
+    time: 1424986189
   /apple-touch-icon-114x114-precomposed.png:
     md5: 4b32f9176044704b1d5b97479282a2fc
     time: 1419980483
@@ -253,9 +253,6 @@ inventory:
   /assets/meeting_5396c.jpg:
     md5: dde5d68809e555f7e9e56caa8c57af7d
     time: 1424985161
-  /assets/mission mtg 2.jpg:
-    md5: 109a9f5a026353c91f93edd8338e1769
-    time: 1424986047
   /assets/2014_Reading_Week_Brochure.pdf:
     md5: ff5c7590609614a45271e7ba7bbda79a
     time: 1419991835

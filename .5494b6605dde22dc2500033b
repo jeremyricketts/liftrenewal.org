@@ -1,12 +1,12 @@
 ---
-time: 1427132962
+time: 1427133829
 inventory:
   /index/index.html:
-    md5: f7e338416aebe1dc87f10d49099c8892
-    time: 1427132957
+    md5: 8c44fccd0b4e512c6eca6dd7d66b0fc6
+    time: 1427133826
   /index.html:
-    md5: f7e338416aebe1dc87f10d49099c8892
-    time: 1427132957
+    md5: 8c44fccd0b4e512c6eca6dd7d66b0fc6
+    time: 1427133826
   /about/index.html:
     md5: bc530655bec7a33fc574b37f351cd8a9
     time: 1420753711
@@ -14,8 +14,8 @@ inventory:
     md5: 0218e8eef11667db968dee3c9d890730
     time: 1427132957
   /events/ministry-of-the-church-office/index.html:
-    md5: 869c4ec75acbfc99aa65a5c3b8637ae7
-    time: 1427132958
+    md5: 87e00f554bbf84d532f0f2f0dcb43cb4
+    time: 1427133826
   /events/clergy-class-meetings-feb-2015/index.html:
     md5: 6008841ee7d9fa29db85c0dd245398c4
     time: 1427129926
@@ -119,8 +119,8 @@ inventory:
     md5: 5e66a672193163e499ae95c48babee24
     time: 1427132959
   /feed.xml:
-    md5: 15628a7420f22f7c37f4d9d08dbc77f1
-    time: 1427132960
+    md5: 68257a36c3832fa72c668e0f07c08561
+    time: 1427133828
   /apple-touch-icon-114x114-precomposed.png:
     md5: 4b32f9176044704b1d5b97479282a2fc
     time: 1419980483
@@ -253,9 +253,9 @@ inventory:
   /assets/Picture4.jpg:
     md5: 4e8284cea2f994d23a15cdd4fd0ad8cf
     time: 1424987429
-  /assets/desk.jpg:
-    md5: ea1641f5df0d381ae31bd7291f452632
-    time: 1427132960
+  /assets/desk bible.jpg:
+    md5: d3420ae50b442ca367f6028b1cc174a4
+    time: 1427133828
   /assets/2014_Reading_Week_Brochure.pdf:
     md5: ff5c7590609614a45271e7ba7bbda79a
     time: 1419991835

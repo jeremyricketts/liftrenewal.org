@@ -1,18 +1,21 @@
 ---
-time: 1425325984
+time: 1427129929
 inventory:
   /index/index.html:
-    md5: 371a69b6b869cb212a3403ce551c4535
-    time: 1424987426
+    md5: 21ed75f80f0fa378a16c63f4e5e06f29
+    time: 1427129925
   /index.html:
-    md5: 371a69b6b869cb212a3403ce551c4535
-    time: 1424987426
+    md5: 21ed75f80f0fa378a16c63f4e5e06f29
+    time: 1427129925
   /about/index.html:
     md5: bc530655bec7a33fc574b37f351cd8a9
     time: 1420753711
   /events/index.html:
-    md5: 5be18f80c26f2e74163bcce35198567b
-    time: 1424987427
+    md5: 80c7ee21a88c5526ecb3c26ad344e397
+    time: 1427129926
+  /events/clergy-class-meetings-feb-2015/index.html:
+    md5: 6008841ee7d9fa29db85c0dd245398c4
+    time: 1427129926
   /events/board-of-directors-annual-meeting/index.html:
     md5: fcda7c5707f3221c67583868e7843102
     time: 1424987668
@@ -22,9 +25,6 @@ inventory:
   /events/ghana-mission-meeting/index.html:
     md5: 666bd25c3c438c5b9e8b14712bcbe653
     time: 1424987601
-  /events/clergy-class-meetings-feb-2015/index.html:
-    md5: ab9f8c0cd0b813cd743445bad3594728
-    time: 1425325980
   /events/prayer-walk-at-st-pauls-umc/index.html:
     md5: 2fc0feb156a2676ca1b23cca06c7867c
     time: 1421104577
@@ -35,20 +35,20 @@ inventory:
     md5: 6bbdffa7f49b35db970e67aa9d156b4c
     time: 1420013226
   /events/archive/index.html:
-    md5: 7556cf8f507829d4288e494dcc1158ae
-    time: 1424987427
+    md5: 1f83c76228fadb64b3691cec9f4aa46e
+    time: 1427129926
   /events/tags/index.html:
-    md5: d704b3c45fa7dd0410c7f6b40b7f82ed
-    time: 1424987427
+    md5: e6bb51bffde8bf4a85b8e330791586fe
+    time: 1427129926
   /events/tags/prayer-walk/index.html:
-    md5: cf9525988dfe263e9acc7e6585a0ba15
-    time: 1424987427
+    md5: 381e5c032ffbb995be4d4a8ba37166f3
+    time: 1427129926
   /events/tags/st-pauls-umc/index.html:
-    md5: 25046d23d3bfc8ff9822f87070a9adbc
-    time: 1424987427
+    md5: 920c63267fb445d4091695943c262370
+    time: 1427129926
   /events/tags/san-bernardino/index.html:
-    md5: 8d4d05f4313a656bef82f8c84237005d
-    time: 1424987427
+    md5: c8ed4c67b32bcf140ccacd91c6eea1a8
+    time: 1427129926
   /blog/index.html:
     md5: cf44eabe6169b878453011177406ac2f
     time: 1419991831
@@ -113,11 +113,11 @@ inventory:
     md5: 053e51cc6ecf1f37a1105667ba3def74
     time: 1420695099
   /sitemap.xml:
-    md5: 9e3901a051caaf475dfca446e28445a2
-    time: 1425325983
+    md5: efa6695d0d82926754bf9e29266d24c5
+    time: 1427129928
   /feed.xml:
-    md5: 54686e9efeb5c3121a35ec52e4f35e95
-    time: 1425325983
+    md5: c93c7c708aec4d40e6b7c12a1fe88c9e
+    time: 1427129928
   /apple-touch-icon-114x114-precomposed.png:
     md5: 4b32f9176044704b1d5b97479282a2fc
     time: 1419980483

@@ -1,18 +1,18 @@
 ---
-time: 1427141096
+time: 1428509131
 inventory:
   /index/index.html:
-    md5: bbd1d7ffbcb49e2f8f2b81cd78b1a794
-    time: 1427141092
+    md5: bbd9ea1af0a0855bfc5f2e8c6284db3e
+    time: 1428509127
   /index.html:
-    md5: bbd1d7ffbcb49e2f8f2b81cd78b1a794
-    time: 1427141092
+    md5: bbd9ea1af0a0855bfc5f2e8c6284db3e
+    time: 1428509127
   /about/index.html:
-    md5: bc530655bec7a33fc574b37f351cd8a9
-    time: 1420753711
+    md5: 6ac89a5696aa8f6b5d45226e21430c15
+    time: 1428509128
   /events/index.html:
-    md5: bdb98af19b8f4f13766e4e42933cbbe2
-    time: 1427141092
+    md5: 0c8805046663cd54ece33814ecec4de8
+    time: 1428509128
   /events/ministry-of-the-church-office/index.html:
     md5: e006b99078ec851fcdf084a602331114
     time: 1427137780
@@ -20,8 +20,8 @@ inventory:
     md5: 023021da4b95bf667be82ca1720d5686
     time: 1427141092
   /events/clergy-class-meetings-feb-2015/index.html:
-    md5: 6008841ee7d9fa29db85c0dd245398c4
-    time: 1427129926
+    md5: 983185fa8d3ab233b7ec711fd757610a
+    time: 1428509128
   /events/board-of-directors-annual-meeting/index.html:
     md5: fcda7c5707f3221c67583868e7843102
     time: 1424987668
@@ -38,20 +38,20 @@ inventory:
     md5: 6bbdffa7f49b35db970e67aa9d156b4c
     time: 1420013226
   /events/archive/index.html:
-    md5: 21c5dab3e7c3681ca181611af2e3aaf6
-    time: 1427141093
+    md5: 0efb62cce0f566597057754f8035432b
+    time: 1428509128
   /events/tags/index.html:
-    md5: 6481b7f86a1f0f9a0b536a91359da352
-    time: 1427141093
+    md5: 401507d7734ab216ab1f40b5915a2346
+    time: 1428509128
   /events/tags/prayer-walk/index.html:
-    md5: e34baa20f3c078258c8876149f742aa8
-    time: 1427141093
+    md5: 4b9a208f8eb11769ba2e4465867281d6
+    time: 1428509128
   /events/tags/st-pauls-umc/index.html:
-    md5: ede5ad31c59cbf1b202e574c766c52e8
-    time: 1427141093
+    md5: a5582d3b32ce722abe0e8910da925d3d
+    time: 1428509128
   /events/tags/san-bernardino/index.html:
-    md5: ae9fdcf199230c05ca0f3c452d2d5ac9
-    time: 1427141093
+    md5: 5657a527d42145113e535e03df54dac3
+    time: 1428509128
   /blog/index.html:
     md5: cf44eabe6169b878453011177406ac2f
     time: 1419991831
@@ -116,11 +116,11 @@ inventory:
     md5: 053e51cc6ecf1f37a1105667ba3def74
     time: 1420695099
   /sitemap.xml:
-    md5: d885c0adc4f9abec5be8b233a5fef6d7
-    time: 1427141094
+    md5: f50a180ace89e07787d29673354fffe1
+    time: 1428509129
   /feed.xml:
-    md5: a8826f3b2c1e7caa7a2d3bbdeee64617
-    time: 1427141095
+    md5: 26ddc2649565f33914b1c33528b5ddf3
+    time: 1428509129
   /apple-touch-icon-114x114-precomposed.png:
     md5: 4b32f9176044704b1d5b97479282a2fc
     time: 1419980483
@@ -265,18 +265,18 @@ inventory:
   /assets/73e744fca5403846942b1cf2dd089e61eca17d5a.jpg:
     md5: 8409dce87fbc4c914b1d7a48a7f56f54
     time: 1419991837
-  /assets/DSCN0867.JPG:
-    md5: e414d032a3d2c212cd98eaf5632912d4
-    time: 1419991833
+  /assets/DSCN1042.JPG:
+    md5: 48fa904564a0d92f7dfa728ab3265ae4
+    time: 1420753605
   /assets/100_1781.JPG:
     md5: 3da5d7ecad2682cc19928438cef725a7
     time: 1420753605
   /assets/692c96aea350ab5d116367e044bcf442fa727b5a.jpg:
     md5: d121d1701cd664a592bed67349adc87b
     time: 1419991838
-  /assets/DSCN1042.JPG:
-    md5: 48fa904564a0d92f7dfa728ab3265ae4
-    time: 1420753605
+  /assets/DSCN0867.JPG:
+    md5: e414d032a3d2c212cd98eaf5632912d4
+    time: 1419991833
   /assets/1b9fd2b396aaa89c03fed64037f400df19979927.jpg:
     md5: 6460364a7a1d0c42bf266100d93f9c15
     time: 1419991836

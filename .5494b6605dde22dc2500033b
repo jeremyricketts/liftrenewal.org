@@ -1,18 +1,21 @@
 ---
-time: 1430847174
+time: 1430847583
 inventory:
   "/index/index.html":
-    md5: d116026dabba02bb8797124cc6d6cd70
-    time: 1430847170
+    md5: baaf30daa408bbe549176c8d7e37d9c9
+    time: 1430847580
   "/index.html":
-    md5: d116026dabba02bb8797124cc6d6cd70
-    time: 1430847170
+    md5: baaf30daa408bbe549176c8d7e37d9c9
+    time: 1430847580
   "/about/index.html":
     md5: 6ac89a5696aa8f6b5d45226e21430c15
     time: 1428509128
   "/events/index.html":
-    md5: 22a3e4bf825d4f101f5dfdc5cba60878
-    time: 1430847171
+    md5: 4683fcf98201330c52d22da000d6b9e5
+    time: 1430847580
+  "/events/prayer-walk-at-muscoy-umc/index.html":
+    md5: fb5195329c2a044a814f3510972c81b7
+    time: 1430847580
   "/events/clergy-class-meetings-apr-2015/index.html":
     md5: f14d1f6907cbf1c992084fa0367c438b
     time: 1430847171
@@ -28,9 +31,6 @@ inventory:
   "/events/ghana-mission-meeting/index.html":
     md5: 666bd25c3c438c5b9e8b14712bcbe653
     time: 1424987601
-  "/events/prayer-walk-at-st-pauls-umc/index.html":
-    md5: 2fc0feb156a2676ca1b23cca06c7867c
-    time: 1421104577
   "/events/inland-empire-prayer-walking/index.html":
     md5: 0a2de1db981112c3115405c852fdaaa8
     time: 1421104377
@@ -38,20 +38,20 @@ inventory:
     md5: 6bbdffa7f49b35db970e67aa9d156b4c
     time: 1420013226
   "/events/archive/index.html":
-    md5: 4c65cf9abb27383bff9d698cd40c869e
-    time: 1430847171
+    md5: 1e284edd47255c2c83eddb3f36be65ac
+    time: 1430847581
   "/events/tags/index.html":
-    md5: 70881cc2aee646e46bdfd506da6606b2
-    time: 1430847171
+    md5: 6da205fa7ff86c94969b8fbe6618d154
+    time: 1430847581
   "/events/tags/prayer-walk/index.html":
-    md5: da90f1f988e3f42ea6614ad9fd19a9ed
-    time: 1430847171
+    md5: 8e9805962694b596665571a571b71bd5
+    time: 1430847581
   "/events/tags/st-pauls-umc/index.html":
-    md5: 3cb0cafc472f1650eda136811848174d
-    time: 1430847171
+    md5: 01cedc7d9b645947f1a85bdfe3a47032
+    time: 1430847581
   "/events/tags/san-bernardino/index.html":
-    md5: c19466b68c44942db3d026950d620fb4
-    time: 1430847171
+    md5: ae6b9cce2aebefd538f5270f579d9da7
+    time: 1430847581
   "/blog/index.html":
     md5: cf44eabe6169b878453011177406ac2f
     time: 1419991831
@@ -116,11 +116,11 @@ inventory:
     md5: 053e51cc6ecf1f37a1105667ba3def74
     time: 1420695099
   "/sitemap.xml":
-    md5: ce07f234073013382a363b58b7367de9
-    time: 1430847173
+    md5: 3411e1194e448a9fae53b41110aaa181
+    time: 1430847582
   "/feed.xml":
-    md5: b8623c6b2d5b83f67afa09a3ef6122c4
-    time: 1430847173
+    md5: 1dbabbebc1d69e5d7e138b191c0d36e5
+    time: 1430847583
   "/apple-touch-icon-114x114-precomposed.png":
     md5: 4b32f9176044704b1d5b97479282a2fc
     time: 1419980483

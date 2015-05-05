@@ -1,309 +1,309 @@
 ---
-time: 1428965342
+time: 1430847174
 inventory:
-  /index/index.html:
-    md5: 047176e69bb9bf11fb1bd7da57a76c07
-    time: 1428965337
-  /index.html:
-    md5: 047176e69bb9bf11fb1bd7da57a76c07
-    time: 1428965337
-  /about/index.html:
+  "/index/index.html":
+    md5: d116026dabba02bb8797124cc6d6cd70
+    time: 1430847170
+  "/index.html":
+    md5: d116026dabba02bb8797124cc6d6cd70
+    time: 1430847170
+  "/about/index.html":
     md5: 6ac89a5696aa8f6b5d45226e21430c15
     time: 1428509128
-  /events/index.html:
-    md5: ac92b685158ec688b97c9cd9c7988f47
-    time: 1428965338
-  /events/ministry-of-the-church-office/index.html:
+  "/events/index.html":
+    md5: 22a3e4bf825d4f101f5dfdc5cba60878
+    time: 1430847171
+  "/events/clergy-class-meetings-apr-2015/index.html":
+    md5: f14d1f6907cbf1c992084fa0367c438b
+    time: 1430847171
+  "/events/ministry-of-the-church-office/index.html":
     md5: e006b99078ec851fcdf084a602331114
     time: 1427137780
-  /events/clergy-class-meetings-apr-2015/index.html:
-    md5: 0eca25ef7826c84f30cb2bd1d44894d4
-    time: 1428965338
-  /events/prayer-walking-2-14-2015/index.html:
+  "/events/prayer-walking-2-14-2015/index.html":
     md5: 023021da4b95bf667be82ca1720d5686
     time: 1427141092
-  /events/board-of-directors-annual-meeting/index.html:
+  "/events/board-of-directors-annual-meeting/index.html":
     md5: fcda7c5707f3221c67583868e7843102
     time: 1424987668
-  /events/ghana-mission-meeting/index.html:
+  "/events/ghana-mission-meeting/index.html":
     md5: 666bd25c3c438c5b9e8b14712bcbe653
     time: 1424987601
-  /events/prayer-walk-at-st-pauls-umc/index.html:
+  "/events/prayer-walk-at-st-pauls-umc/index.html":
     md5: 2fc0feb156a2676ca1b23cca06c7867c
     time: 1421104577
-  /events/inland-empire-prayer-walking/index.html:
+  "/events/inland-empire-prayer-walking/index.html":
     md5: 0a2de1db981112c3115405c852fdaaa8
     time: 1421104377
-  /events/christmas-day/index.html:
+  "/events/christmas-day/index.html":
     md5: 6bbdffa7f49b35db970e67aa9d156b4c
     time: 1420013226
-  /events/archive/index.html:
-    md5: 1f207e34594f8c411eab807126804d8f
-    time: 1428965339
-  /events/tags/index.html:
-    md5: 550180edde35676411827b6f1dde53c6
-    time: 1428965339
-  /events/tags/prayer-walk/index.html:
-    md5: d1d6fdec710bcbdc0948d91316e2e7e3
-    time: 1428965339
-  /events/tags/st-pauls-umc/index.html:
-    md5: f8c5aa5405367692deb099b03603a63c
-    time: 1428965339
-  /events/tags/san-bernardino/index.html:
-    md5: 35816c896d2790b77e59890e79cdf4cf
-    time: 1428965339
-  /blog/index.html:
+  "/events/archive/index.html":
+    md5: 4c65cf9abb27383bff9d698cd40c869e
+    time: 1430847171
+  "/events/tags/index.html":
+    md5: 70881cc2aee646e46bdfd506da6606b2
+    time: 1430847171
+  "/events/tags/prayer-walk/index.html":
+    md5: da90f1f988e3f42ea6614ad9fd19a9ed
+    time: 1430847171
+  "/events/tags/st-pauls-umc/index.html":
+    md5: 3cb0cafc472f1650eda136811848174d
+    time: 1430847171
+  "/events/tags/san-bernardino/index.html":
+    md5: c19466b68c44942db3d026950d620fb4
+    time: 1430847171
+  "/blog/index.html":
     md5: cf44eabe6169b878453011177406ac2f
     time: 1419991831
-  /blog/a-distinguishing-birthmark/index.html:
+  "/blog/a-distinguishing-birthmark/index.html":
     md5: 10218dd45c35927d3e7b63e4acf85861
     time: 1420013227
-  /blog/god-at-work-within-us/index.html:
+  "/blog/god-at-work-within-us/index.html":
     md5: 7a89d105d5b94a56dac11f75ab3621ac
     time: 1420013227
-  /blog/its-the-little-things/index.html:
+  "/blog/its-the-little-things/index.html":
     md5: 267de262b471257fdb475fd716efc8b9
     time: 1420013227
-  /blog/big-changes-at-lift/index.html:
+  "/blog/big-changes-at-lift/index.html":
     md5: 4b4e1a4498f7e692a58e7ae7b989093e
     time: 1420013227
-  /blog/disciples-are-sent-to-bear-fruit/index.html:
+  "/blog/disciples-are-sent-to-bear-fruit/index.html":
     md5: daf766b59b7499f3c046d4f42e7a00cc
     time: 1420013227
-  /blog/almost-there-again/index.html:
+  "/blog/almost-there-again/index.html":
     md5: c9054a29bbf9a2c87d7767df12b86804
     time: 1420013227
-  /blog/holy-week-confession/index.html:
+  "/blog/holy-week-confession/index.html":
     md5: 4e18f4ea2227e9e32b308a36f99bcc44
     time: 1420013227
-  /blog/the-passion-for-holiness/index.html:
+  "/blog/the-passion-for-holiness/index.html":
     md5: 2536b0b7794380a3e8d238aa3a7ab579
     time: 1420013227
-  /blog/got-rhythm/index.html:
+  "/blog/got-rhythm/index.html":
     md5: 4d1c64f76a4efc14cbb405d47fabcd50
     time: 1420013227
-  /blog/building-up-the-body-of-christ/index.html:
+  "/blog/building-up-the-body-of-christ/index.html":
     md5: b0781f57b231c44e8543e4ec46d47bff
     time: 1420013227
-  /blog/archive/index.html:
+  "/blog/archive/index.html":
     md5: 3620261c0ee83640db9b78227937eadd
     time: 1419991832
-  /blog/tags/index.html:
+  "/blog/tags/index.html":
     md5: c6f0b69f64581da73c824186a4285978
     time: 1419991832
-  /donate/index.html:
+  "/donate/index.html":
     md5: df57eb685a15dd20b82254e0a378b6f0
     time: 1421790045
-  /contact/index.html:
+  "/contact/index.html":
     md5: 102c670c29f8e5a87e90a5decd840e9c
     time: 1420684921
-  /about/3-day-renewal-experiences/index.html:
+  "/about/3-day-renewal-experiences/index.html":
     md5: d9b359293047f31a4828cdffea21cb17
     time: 1419991832
-  /about/lectionary-reading-weeks-for-preachers/index.html:
+  "/about/lectionary-reading-weeks-for-preachers/index.html":
     md5: fabc0fb0fd0ec1b7bda37edcf40b0f2a
     time: 1419991832
-  /about/leadership-retreats-and-training/index.html:
+  "/about/leadership-retreats-and-training/index.html":
     md5: 92bd55274934d5c08fe5983ebc0c2060
     time: 1419991832
-  /about/coaching-for-clergy/index.html:
+  "/about/coaching-for-clergy/index.html":
     md5: 0cc8247826229adb1a2cbf61ec5c6e74
     time: 1419991832
-  /about/conferences/index.html:
+  "/about/conferences/index.html":
     md5: 3a413ed81aba0830ae80733b0d096ea1
     time: 1419991832
-  /CNAME:
+  "/CNAME":
     md5: 053e51cc6ecf1f37a1105667ba3def74
     time: 1420695099
-  /sitemap.xml:
-    md5: a79e1f4341551e7998a603fe17ce6d97
-    time: 1428965341
-  /feed.xml:
-    md5: b448afbdf08124cccf4694385be597d8
-    time: 1428965341
-  /apple-touch-icon-114x114-precomposed.png:
+  "/sitemap.xml":
+    md5: ce07f234073013382a363b58b7367de9
+    time: 1430847173
+  "/feed.xml":
+    md5: b8623c6b2d5b83f67afa09a3ef6122c4
+    time: 1430847173
+  "/apple-touch-icon-114x114-precomposed.png":
     md5: 4b32f9176044704b1d5b97479282a2fc
     time: 1419980483
-  /apple-touch-icon-57x57-precomposed.png:
+  "/apple-touch-icon-57x57-precomposed.png":
     md5: 87b6bc6d43a362609d9b41384c5f52f8
     time: 1419980484
-  /apple-touch-icon-72x72-precomposed.png:
+  "/apple-touch-icon-72x72-precomposed.png":
     md5: fece6b4aae548d8353c73e9aa36fbbb2
     time: 1419980484
-  /apple-touch-icon-precomposed.png:
+  "/apple-touch-icon-precomposed.png":
     md5: 87b6bc6d43a362609d9b41384c5f52f8
     time: 1419980484
-  /apple-touch-icon.png:
+  "/apple-touch-icon.png":
     md5: 87b6bc6d43a362609d9b41384c5f52f8
     time: 1419980484
-  /config.rb:
+  "/config.rb":
     md5: 1e34aa0a8533d12966298997aad5079f
     time: 1419980484
-  /css/ie.css:
+  "/css/ie.css":
     md5: 9496473067040385831bb6cccbd68627
     time: 1419980484
-  /css/print.css:
+  "/css/print.css":
     md5: 4583ffae7a2f26754f6b3d0f10655e8b
     time: 1419980485
-  /favicon.ico:
+  "/favicon.ico":
     md5: cb4b8169025fdb661a203fa681a468ec
     time: 1419980485
-  /fonts/fontawesome-webfont.eot:
+  "/fonts/fontawesome-webfont.eot":
     md5: 7149833697a959306ec3012a8588dcfa
     time: 1419980485
-  /fonts/fontawesome-webfont.svg:
+  "/fonts/fontawesome-webfont.svg":
     md5: 65bcbc899f379216109acd0b6c494618
     time: 1419980486
-  /fonts/fontawesome-webfont.ttf:
+  "/fonts/fontawesome-webfont.ttf":
     md5: c4668ed2440df82d3fd2f8be9d31d07d
     time: 1419980486
-  /fonts/fontawesome-webfont.woff:
+  "/fonts/fontawesome-webfont.woff":
     md5: d95d6f5d5ab7cfefd09651800b69bd54
     time: 1419980486
-  /fonts/FontAwesome.otf:
+  "/fonts/FontAwesome.otf":
     md5: 19231917733e2bcdf257c9be99cdbaf1
     time: 1419980486
-  /humans.txt:
+  "/humans.txt":
     md5: f4fc89b42f5371c990dd0876033194a4
     time: 1419980486
-  /img/bg-fb-logo.png:
+  "/img/bg-fb-logo.png":
     md5: f32bd9c4e520ad16c7b4f24c654d1818
     time: 1419980487
-  /img/bg-twitter-logo.png:
+  "/img/bg-twitter-logo.png":
     md5: 82c6cd91f3cd9af92f29a490ed655e53
     time: 1419980487
-  /img/header-bg.jpg:
+  "/img/header-bg.jpg":
     md5: c64f6db16aed8d4fc5eb3a4a17d8e439
     time: 1419980487
-  /img/lift-renewal-ministries-logo.png:
+  "/img/lift-renewal-ministries-logo.png":
     md5: d1871c84b0ab1ac0ecb624cd4c6e7ed5
     time: 1419980487
-  /robots.txt:
+  "/robots.txt":
     md5: 1d77f39c2340dbe1aadb13be232321e3
     time: 1419980487
-  /sass/_font-awesome.scss:
+  "/sass/_font-awesome.scss":
     md5: 6b49eca0f32a8f79a5b6a22beb1df76a
     time: 1419980488
-  /sass/_grid.scss:
+  "/sass/_grid.scss":
     md5: 5d6b11b4e4aa2f011819b44fc6a67369
     time: 1419980488
-  /sass/_normalize.scss:
+  "/sass/_normalize.scss":
     md5: 4555077d49642ee7558d9e12bc9660e5
     time: 1419980488
-  /sass/ie.scss:
+  "/sass/ie.scss":
     md5: 9496473067040385831bb6cccbd68627
     time: 1419980488
-  /sass/print.scss:
+  "/sass/print.scss":
     md5: 4583ffae7a2f26754f6b3d0f10655e8b
     time: 1419980488
-  /assets/5e35aafd2807f71e2d8b4c340e8bd7c7c4c2f694.jpg:
+  "/assets/5e35aafd2807f71e2d8b4c340e8bd7c7c4c2f694.jpg":
     md5: 0e261e6e7c3aa8f9737661dff0f2bace
     time: 1419985184
-  /assets/84bb4b32490d15926e33746f7ec4d80cfeb41bf6.jpg:
+  "/assets/84bb4b32490d15926e33746f7ec4d80cfeb41bf6.jpg":
     md5: 3248fbf50cb866a58a140e298c40cb85
     time: 1419985184
-  /assets/db7e5a64f82b8a878c2a10f946144a9e0207c5b6.jpg:
+  "/assets/db7e5a64f82b8a878c2a10f946144a9e0207c5b6.jpg":
     md5: 3a56cb8d4ed8a8b94f425a2a38b219e1
     time: 1419985184
-  /assets/090ffd8e78ce0d211181e9214a6dadfa21103bab.jpg:
+  "/assets/090ffd8e78ce0d211181e9214a6dadfa21103bab.jpg":
     md5: 794a82f5b0b45eb00fe6c7a1ea3bd008
     time: 1419985184
-  /assets/36bc9b3c89db25a84150ea0d25f2a0ce48f6225d.jpg:
+  "/assets/36bc9b3c89db25a84150ea0d25f2a0ce48f6225d.jpg":
     md5: 4a3c8b86769ecc7bba2a3260ea8023ac
     time: 1419985185
-  /assets/a465972b90646a31443ec94ab9a5e34b9582d99f.jpg:
+  "/assets/a465972b90646a31443ec94ab9a5e34b9582d99f.jpg":
     md5: afdbe5e33b9efb72a84a017459f1680c
     time: 1419991839
-  /assets/f5a92a3c59fea4a7f277c8d04d5fd990a970fbe3.jpg:
+  "/assets/f5a92a3c59fea4a7f277c8d04d5fd990a970fbe3.jpg":
     md5: 6572a0dcf2a4ad35e5a4b937c913a251
     time: 1419991833
-  /assets/9097bd936ff51ec971b694c4bea7fa42dd19b86e.jpg:
+  "/assets/9097bd936ff51ec971b694c4bea7fa42dd19b86e.jpg":
     md5: bde67ee85492a050c1fd43833819eecb
     time: 1419991833
-  /assets/a585f34aec7838395c20236ced1de395e8755a68.jpg:
+  "/assets/a585f34aec7838395c20236ced1de395e8755a68.jpg":
     md5: d1f1f8b489b1972f46acb546a9a5e14a
     time: 1420012851
-  /assets/2c0343f7.jpg:
+  "/assets/2c0343f7.jpg":
     md5: d15c8f9cd264bb210fae2cb034e53a3b
     time: 1420012852
-  /assets/photo-1415639636295-61ae91a98b39.jpg:
+  "/assets/photo-1415639636295-61ae91a98b39.jpg":
     md5: 9330e06a74cd571dbb8a6a3705276566
     time: 1420012852
-  /README.md:
+  "/README.md":
     md5: fa873c1d9f89a4c93e813ac88c007f27
     time: 1420610586
-  /css/screen.css:
+  "/css/screen.css":
     md5: 107054f625df353492c94d5e6d26c8d4
     time: 1420767254
-  /sass/screen.scss:
+  "/sass/screen.scss":
     md5: c652858850d6e544fc7a96fbc95bcc23
     time: 1420767254
-  /assets/PW logo.jpg:
+  "/assets/PW logo.jpg":
     md5: 9e8129833794da0e43c5b7e7ebbbdc28
     time: 1421778668
-  /assets/pen_4741cn.jpg:
+  "/assets/pen_4741cn.jpg":
     md5: 677411bd95bebddc96b469d8c5b5014c
     time: 1421868335
-  /assets/meeting_5396c.jpg:
+  "/assets/meeting_5396c.jpg":
     md5: dde5d68809e555f7e9e56caa8c57af7d
     time: 1424985161
-  /assets/mission team mtg.jpg:
+  "/assets/mission team mtg.jpg":
     md5: 9a6bc0f7ff69d6d26ada2245844936b9
     time: 1424986512
-  /assets/Picture4.jpg:
+  "/assets/Picture4.jpg":
     md5: 4e8284cea2f994d23a15cdd4fd0ad8cf
     time: 1424987429
-  /assets/desk bible.jpg:
+  "/assets/desk bible.jpg":
     md5: d3420ae50b442ca367f6028b1cc174a4
     time: 1427133828
-  /assets/2014_Reading_Week_Brochure.pdf:
+  "/assets/2014_Reading_Week_Brochure.pdf":
     md5: ff5c7590609614a45271e7ba7bbda79a
     time: 1419991835
-  /assets/LIFT Annual Retreat.jpg:
+  "/assets/LIFT Annual Retreat.jpg":
     md5: e52e04ea51e3fde8da5b5c9273c079e5
     time: 1420753604
-  /assets/73e744fca5403846942b1cf2dd089e61eca17d5a.jpg:
+  "/assets/73e744fca5403846942b1cf2dd089e61eca17d5a.jpg":
     md5: 8409dce87fbc4c914b1d7a48a7f56f54
     time: 1419991837
-  /assets/DSCN1042.JPG:
+  "/assets/DSCN1042.JPG":
     md5: 48fa904564a0d92f7dfa728ab3265ae4
     time: 1420753605
-  /assets/100_1781.JPG:
+  "/assets/100_1781.JPG":
     md5: 3da5d7ecad2682cc19928438cef725a7
     time: 1420753605
-  /assets/692c96aea350ab5d116367e044bcf442fa727b5a.jpg:
+  "/assets/692c96aea350ab5d116367e044bcf442fa727b5a.jpg":
     md5: d121d1701cd664a592bed67349adc87b
     time: 1419991838
-  /assets/DSCN0867.JPG:
+  "/assets/DSCN0867.JPG":
     md5: e414d032a3d2c212cd98eaf5632912d4
     time: 1419991833
-  /assets/1b9fd2b396aaa89c03fed64037f400df19979927.jpg:
+  "/assets/1b9fd2b396aaa89c03fed64037f400df19979927.jpg":
     md5: 6460364a7a1d0c42bf266100d93f9c15
     time: 1419991836
-  /assets/DSCN2408.JPG:
+  "/assets/DSCN2408.JPG":
     md5: 19a7467d8f651ce5c31d9465f815d440
     time: 1420753608
-  /assets/a41465a9b5f5f9819799a21d5c19c6721ce9601e.jpg:
+  "/assets/a41465a9b5f5f9819799a21d5c19c6721ce9601e.jpg":
     md5: d6850765e13fb7823862955cd0382bcc
     time: 1419991839
-  /assets/837c4dc1762d7fe2fba644bff98f130074dd4fb1.jpg:
+  "/assets/837c4dc1762d7fe2fba644bff98f130074dd4fb1.jpg":
     md5: 397d910576b895b4aa107f1473961a84
     time: 1419991838
-  /assets/4b6d8613d103d49157a59725523e6f7ad8ad7362.jpg:
+  "/assets/4b6d8613d103d49157a59725523e6f7ad8ad7362.jpg":
     md5: 357a197197d2d0606580956ccbf9dd0f
     time: 1419991836
-  /assets/DSCN0905.JPG:
+  "/assets/DSCN0905.JPG":
     md5: c506006570dbc8135d752096c897a295
     time: 1419991835
-  /assets/b5ecae7dcdb8ca1a7ebe89c82224626acaacb57f.jpg:
+  "/assets/b5ecae7dcdb8ca1a7ebe89c82224626acaacb57f.jpg":
     md5: 50879b9117a66c06a19e10817e439134
     time: 1419991840
-  /assets/DSCN0981.JPG:
+  "/assets/DSCN0981.JPG":
     md5: b9aeb57bae37876f731db6f480e7c12e
     time: 1419991836
-  /assets/DSCN0936.JPG:
+  "/assets/DSCN0936.JPG":
     md5: 46eb280b082442886e081bed28517f7d
     time: 1419991834
-  /assets/f81deb07e20a7c30487a78065e0506673da8cae6.jpg:
+  "/assets/f81deb07e20a7c30487a78065e0506673da8cae6.jpg":
     md5: 474e0c0eac1e6af86efe88336c51766d
     time: 1419991840

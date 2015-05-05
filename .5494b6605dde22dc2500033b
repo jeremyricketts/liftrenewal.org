@@ -1,12 +1,12 @@
 ---
-time: 1430847583
+time: 1430847739
 inventory:
   "/index/index.html":
-    md5: baaf30daa408bbe549176c8d7e37d9c9
-    time: 1430847580
+    md5: 6b2feebbe4572be8ad2adfda86dbc572
+    time: 1430847736
   "/index.html":
-    md5: baaf30daa408bbe549176c8d7e37d9c9
-    time: 1430847580
+    md5: 6b2feebbe4572be8ad2adfda86dbc572
+    time: 1430847736
   "/about/index.html":
     md5: 6ac89a5696aa8f6b5d45226e21430c15
     time: 1428509128
@@ -14,8 +14,8 @@ inventory:
     md5: 4683fcf98201330c52d22da000d6b9e5
     time: 1430847580
   "/events/prayer-walk-at-muscoy-umc/index.html":
-    md5: fb5195329c2a044a814f3510972c81b7
-    time: 1430847580
+    md5: c7d3153307255d500d1b342bbf349dc1
+    time: 1430847736
   "/events/clergy-class-meetings-apr-2015/index.html":
     md5: f14d1f6907cbf1c992084fa0367c438b
     time: 1430847171
@@ -116,11 +116,11 @@ inventory:
     md5: 053e51cc6ecf1f37a1105667ba3def74
     time: 1420695099
   "/sitemap.xml":
-    md5: 3411e1194e448a9fae53b41110aaa181
-    time: 1430847582
+    md5: f4912ab1e547a36b47a47c8eb77d2ae4
+    time: 1430847738
   "/feed.xml":
-    md5: 1dbabbebc1d69e5d7e138b191c0d36e5
-    time: 1430847583
+    md5: c17259adb2b5c3ce307f4a1d997fdd7a
+    time: 1430847738
   "/apple-touch-icon-114x114-precomposed.png":
     md5: 4b32f9176044704b1d5b97479282a2fc
     time: 1419980483
@@ -256,6 +256,9 @@ inventory:
   "/assets/desk bible.jpg":
     md5: d3420ae50b442ca367f6028b1cc174a4
     time: 1427133828
+  "/assets/walk_9698c.jpg":
+    md5: a6259fdd7a52545cffe56de718b4403e
+    time: 1430847739
   "/assets/2014_Reading_Week_Brochure.pdf":
     md5: ff5c7590609614a45271e7ba7bbda79a
     time: 1419991835

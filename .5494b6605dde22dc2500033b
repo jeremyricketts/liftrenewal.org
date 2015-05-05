@@ -1,5 +1,5 @@
 ---
-time: 1430849675
+time: 1430849741
 inventory:
   "/index/index.html":
     md5: c6f454e0f853013f9322279e12409544
@@ -14,8 +14,8 @@ inventory:
     md5: 364cf9d8ac881cfccad83b8e254b0a17
     time: 1430849672
   "/events/lectionary-reading-week/index.html":
-    md5: 098885c09b1a4202492cef9a0b927e47
-    time: 1430849672
+    md5: 4163c1d4d131623a4173489e9d35725d
+    time: 1430849739
   "/events/prayer-walk-at-muscoy-umc/index.html":
     md5: bfe846a422ced058da35420588b9a7b8
     time: 1430848140
@@ -119,11 +119,11 @@ inventory:
     md5: 053e51cc6ecf1f37a1105667ba3def74
     time: 1420695099
   "/sitemap.xml":
-    md5: dbb48722c2676f85a7a265c17821bd31
-    time: 1430849674
+    md5: 362a2561f968d521fe2aeb18b86de077
+    time: 1430849741
   "/feed.xml":
-    md5: bd7736a2d8d39fadeb90c77ae1ad92d1
-    time: 1430849674
+    md5: 8171f25fc872d1aec5af6fc9064d605f
+    time: 1430849741
   "/apple-touch-icon-114x114-precomposed.png":
     md5: 4b32f9176044704b1d5b97479282a2fc
     time: 1419980483

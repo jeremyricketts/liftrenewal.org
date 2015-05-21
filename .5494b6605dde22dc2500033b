@@ -1,27 +1,27 @@
 ---
-time: 1432242667
+time: 1432242684
 inventory:
   "/index/index.html":
-    md5: 7832ea9b630b5e20df4ba5a7df99367d
-    time: 1432242326
+    md5: 24873656e29be15e2a33e57a047a2daf
+    time: 1432242682
   "/index.html":
-    md5: 7832ea9b630b5e20df4ba5a7df99367d
-    time: 1432242326
+    md5: 24873656e29be15e2a33e57a047a2daf
+    time: 1432242682
   "/about/index.html":
     md5: 6ac89a5696aa8f6b5d45226e21430c15
     time: 1428509128
   "/events/index.html":
-    md5: 5a8f373773a4e087f66051cc8c70aa83
-    time: 1432242326
+    md5: 6107907865ea4b5ce1b2a311fdab53bc
+    time: 1432242682
   "/events/lectionary-reading-week/index.html":
     md5: 20a2c9ca18022468b6e0507ae307aa2e
     time: 1430849895
+  "/events/prayer-walk-at-university-umc/index.html":
+    md5: dab29113184ae9dd699d7179dce6a42f
+    time: 1432242682
   "/events/clergy-class-meetings-apr-2015/index.html":
     md5: 07f93c57daec89e8ea2ce7c9b4a81696
     time: 1432242326
-  "/events/prayer-walk-at-university-umc/index.html":
-    md5: ffdc83cadf464acde5ff1b74bc9d7ce2
-    time: 1432242666
   "/events/ministry-of-the-church-office/index.html":
     md5: e006b99078ec851fcdf084a602331114
     time: 1427137780
@@ -41,20 +41,20 @@ inventory:
     md5: 6bbdffa7f49b35db970e67aa9d156b4c
     time: 1420013226
   "/events/archive/index.html":
-    md5: 5b46f621e82b7ed0208c86c3563b3d78
-    time: 1432242326
+    md5: 415009b72d5e06496d502121399b310f
+    time: 1432242682
   "/events/tags/index.html":
-    md5: 51597a0f7a9926f60db0fc151129cb2a
-    time: 1432242326
+    md5: 03c62f615414ca9b656c044a2d4c90c8
+    time: 1432242682
   "/events/tags/prayer-walk/index.html":
-    md5: 6866a4895af83763bfec3d4f0956dbaa
-    time: 1432242326
+    md5: 1d7d5a55a7865eb09b9d6c97f5ba8cee
+    time: 1432242682
   "/events/tags/st-pauls-umc/index.html":
-    md5: e8609b70d08b8af9bd92233197797bf5
-    time: 1432242326
+    md5: a19d6a978b99d278f644a424f373ca29
+    time: 1432242683
   "/events/tags/san-bernardino/index.html":
-    md5: 00b7a50d280b45c8431afa040e5eccab
-    time: 1432242326
+    md5: 72346812f13ba1528f09f6512ca07687
+    time: 1432242683
   "/blog/index.html":
     md5: cf44eabe6169b878453011177406ac2f
     time: 1419991831
@@ -119,11 +119,11 @@ inventory:
     md5: 053e51cc6ecf1f37a1105667ba3def74
     time: 1420695099
   "/sitemap.xml":
-    md5: 5fa40bf6f22c3cea89c87e039e23d896
-    time: 1432242667
+    md5: 41e898ce8ff0d5ab47e85dbaacfc7dab
+    time: 1432242683
   "/feed.xml":
-    md5: 65801e110c86a735d244a32efd29a054
-    time: 1432242667
+    md5: 8e366136578e7031689839dc6c4284ad
+    time: 1432242683
   "/apple-touch-icon-114x114-precomposed.png":
     md5: 4b32f9176044704b1d5b97479282a2fc
     time: 1419980483

@@ -1,5 +1,5 @@
 ---
-time: 1432242684
+time: 1432660026
 inventory:
   "/index/index.html":
     md5: 24873656e29be15e2a33e57a047a2daf
@@ -22,6 +22,9 @@ inventory:
   "/events/clergy-class-meetings-apr-2015/index.html":
     md5: 07f93c57daec89e8ea2ce7c9b4a81696
     time: 1432242326
+  "/events/lift-renewal-weekend/index.html":
+    md5: 73683a3b0fb3b8804182444d1f32d4e2
+    time: 1432660023
   "/events/ministry-of-the-church-office/index.html":
     md5: e006b99078ec851fcdf084a602331114
     time: 1427137780
@@ -119,11 +122,11 @@ inventory:
     md5: 053e51cc6ecf1f37a1105667ba3def74
     time: 1420695099
   "/sitemap.xml":
-    md5: 41e898ce8ff0d5ab47e85dbaacfc7dab
-    time: 1432242683
+    md5: bad01b85e68817681bde96ad524bf45d
+    time: 1432660025
   "/feed.xml":
-    md5: 8e366136578e7031689839dc6c4284ad
-    time: 1432242683
+    md5: 591f2fcfa2d5bc41262f558e45a99f99
+    time: 1432660025
   "/apple-touch-icon-114x114-precomposed.png":
     md5: 4b32f9176044704b1d5b97479282a2fc
     time: 1419980483

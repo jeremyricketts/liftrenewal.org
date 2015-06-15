@@ -1,5 +1,5 @@
 ---
-time: 1434410140
+time: 1434410310
 inventory:
   "/index/index.html":
     md5: 1fd7aecd934e8f1d6059d5844ae757b6
@@ -20,8 +20,8 @@ inventory:
     md5: de9db211a25738a077476dd6cb6d17cb
     time: 1434399663
   "/events/renewal-center-in-ghana/index.html":
-    md5: b20a4ee7de11c1fd0b149ddeae7eb384
-    time: 1434410137
+    md5: b54ed5b5ed4c37430b514823734a0209
+    time: 1434410307
   "/events/prayer-walk-at-university-umc/index.html":
     md5: dab29113184ae9dd699d7179dce6a42f
     time: 1432242682
@@ -125,11 +125,11 @@ inventory:
     md5: 053e51cc6ecf1f37a1105667ba3def74
     time: 1420695099
   "/sitemap.xml":
-    md5: 75e0fb9a1c385eb265347610b984d307
-    time: 1434410138
+    md5: 9f5982397d77d8f3d9af790614a21a37
+    time: 1434410308
   "/feed.xml":
-    md5: 074dae063141f621971ed4ffdaf2a7f0
-    time: 1434410138
+    md5: 34000326fbcafd421ca2c238cc487448
+    time: 1434410309
   "/apple-touch-icon-114x114-precomposed.png":
     md5: 4b32f9176044704b1d5b97479282a2fc
     time: 1419980483

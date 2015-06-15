@@ -1,27 +1,27 @@
 ---
-time: 1433363369
+time: 1434399670
 inventory:
   "/index/index.html":
-    md5: e0c0c0be5b2a498ecea91b2a889d1585
-    time: 1433363362
+    md5: 1fd7aecd934e8f1d6059d5844ae757b6
+    time: 1434399662
   "/index.html":
-    md5: e0c0c0be5b2a498ecea91b2a889d1585
-    time: 1433363362
+    md5: 1fd7aecd934e8f1d6059d5844ae757b6
+    time: 1434399662
   "/about/index.html":
     md5: 6ac89a5696aa8f6b5d45226e21430c15
     time: 1428509128
   "/events/index.html":
-    md5: 25a4b83c25b07acfc6dcfd6b4cc2e396
-    time: 1433363362
+    md5: 9959fb0bdc78ba814fe00676ff82b287
+    time: 1434399663
   "/events/lectionary-reading-week/index.html":
     md5: 20a2c9ca18022468b6e0507ae307aa2e
     time: 1430849895
+  "/events/clergy-class-meetings-june-2015/index.html":
+    md5: de9db211a25738a077476dd6cb6d17cb
+    time: 1434399663
   "/events/prayer-walk-at-university-umc/index.html":
     md5: dab29113184ae9dd699d7179dce6a42f
     time: 1432242682
-  "/events/clergy-class-meetings-june-2015/index.html":
-    md5: 51d55cb9b9e201fb10fea4d2f7a7af4e
-    time: 1433363362
   "/events/lift-renewal-weekend/index.html":
     md5: 73683a3b0fb3b8804182444d1f32d4e2
     time: 1432660023
@@ -44,20 +44,20 @@ inventory:
     md5: 6bbdffa7f49b35db970e67aa9d156b4c
     time: 1420013226
   "/events/archive/index.html":
-    md5: 31e0da1350d0faee212ccb36beffe5e0
-    time: 1433363362
+    md5: 5c0479a08cfe1f74c902002253eade48
+    time: 1434399663
   "/events/tags/index.html":
-    md5: de5819bc65668a966e5deb16b700164a
-    time: 1433363362
+    md5: 03370ae31564940799a2d5b9e0a3aff3
+    time: 1434399663
   "/events/tags/prayer-walk/index.html":
-    md5: 8eaa96cf3605fe2c3b526b3aa9c15c61
-    time: 1433363362
+    md5: 995ffb195c0e3f426d1b77983d979254
+    time: 1434399663
   "/events/tags/st-pauls-umc/index.html":
-    md5: 30b5c0164b0c4c7b46df87c01a0bd6fb
-    time: 1433363362
+    md5: e14b398027812576b2d5aa199f52df9a
+    time: 1434399663
   "/events/tags/san-bernardino/index.html":
-    md5: 9900b5e70f5210814bec7ba945bcde1d
-    time: 1433363362
+    md5: d3225b86b435e0672b3b7b463fe583f9
+    time: 1434399663
   "/blog/index.html":
     md5: cf44eabe6169b878453011177406ac2f
     time: 1419991831
@@ -122,11 +122,11 @@ inventory:
     md5: 053e51cc6ecf1f37a1105667ba3def74
     time: 1420695099
   "/sitemap.xml":
-    md5: c35847e8e124d30b8667bf85d36011f9
-    time: 1433363365
+    md5: c3b91acb27683cde7aa4499518e7cd79
+    time: 1434399666
   "/feed.xml":
-    md5: bce5bd640f968450a1666d809c5b32fe
-    time: 1433363365
+    md5: ce6d7bb04684390f59d0e583a26c9e34
+    time: 1434399666
   "/apple-touch-icon-114x114-precomposed.png":
     md5: 4b32f9176044704b1d5b97479282a2fc
     time: 1419980483

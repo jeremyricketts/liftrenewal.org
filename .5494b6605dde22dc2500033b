@@ -1,12 +1,12 @@
 ---
-time: 1434410310
+time: 1434411325
 inventory:
   "/index/index.html":
-    md5: 1fd7aecd934e8f1d6059d5844ae757b6
-    time: 1434399662
+    md5: c69277c062f12518f2d2bcb16844c0fa
+    time: 1434411321
   "/index.html":
-    md5: 1fd7aecd934e8f1d6059d5844ae757b6
-    time: 1434399662
+    md5: c69277c062f12518f2d2bcb16844c0fa
+    time: 1434411321
   "/about/index.html":
     md5: 6ac89a5696aa8f6b5d45226e21430c15
     time: 1428509128
@@ -62,8 +62,11 @@ inventory:
     md5: d3225b86b435e0672b3b7b463fe583f9
     time: 1434399663
   "/blog/index.html":
-    md5: cf44eabe6169b878453011177406ac2f
-    time: 1419991831
+    md5: e864d53f88056e560e0700806bd9042b
+    time: 1434411321
+  "/blog/building-a-place-for-renewal/index.html":
+    md5: 5348f1fa32e179047deab80703dc9516
+    time: 1434411321
   "/blog/a-distinguishing-birthmark/index.html":
     md5: 10218dd45c35927d3e7b63e4acf85861
     time: 1420013227
@@ -95,11 +98,11 @@ inventory:
     md5: b0781f57b231c44e8543e4ec46d47bff
     time: 1420013227
   "/blog/archive/index.html":
-    md5: 3620261c0ee83640db9b78227937eadd
-    time: 1419991832
+    md5: 8f2b6bae65f909f76d3ed4b55b7040a9
+    time: 1434411322
   "/blog/tags/index.html":
-    md5: c6f0b69f64581da73c824186a4285978
-    time: 1419991832
+    md5: cc2760da5537cac74dfcebcf602c1ad0
+    time: 1434411322
   "/donate/index.html":
     md5: df57eb685a15dd20b82254e0a378b6f0
     time: 1421790045
@@ -125,11 +128,11 @@ inventory:
     md5: 053e51cc6ecf1f37a1105667ba3def74
     time: 1420695099
   "/sitemap.xml":
-    md5: 9f5982397d77d8f3d9af790614a21a37
-    time: 1434410308
+    md5: 0d7c297037a038312442f87f6a65fcfe
+    time: 1434411322
   "/feed.xml":
-    md5: 34000326fbcafd421ca2c238cc487448
-    time: 1434410309
+    md5: b0c8e3bdf77a7d832af6e47aea2e97fd
+    time: 1434411322
   "/apple-touch-icon-114x114-precomposed.png":
     md5: 4b32f9176044704b1d5b97479282a2fc
     time: 1419980483
@@ -274,6 +277,9 @@ inventory:
   "/assets/renewal center photo.jpg":
     md5: 2a8048f60c0c9fd5c696b6d20ca8f83e
     time: 1434410138
+  "/assets/LIFT Center.jpg":
+    md5: b29e11819d626fc11f55382417c9bdfc
+    time: 1434411322
   "/assets/2014_Reading_Week_Brochure.pdf":
     md5: ff5c7590609614a45271e7ba7bbda79a
     time: 1419991835

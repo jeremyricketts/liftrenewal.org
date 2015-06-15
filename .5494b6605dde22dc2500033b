@@ -1,5 +1,5 @@
 ---
-time: 1434399670
+time: 1434410140
 inventory:
   "/index/index.html":
     md5: 1fd7aecd934e8f1d6059d5844ae757b6
@@ -19,6 +19,9 @@ inventory:
   "/events/clergy-class-meetings-june-2015/index.html":
     md5: de9db211a25738a077476dd6cb6d17cb
     time: 1434399663
+  "/events/renewal-center-in-ghana/index.html":
+    md5: b20a4ee7de11c1fd0b149ddeae7eb384
+    time: 1434410137
   "/events/prayer-walk-at-university-umc/index.html":
     md5: dab29113184ae9dd699d7179dce6a42f
     time: 1432242682
@@ -122,11 +125,11 @@ inventory:
     md5: 053e51cc6ecf1f37a1105667ba3def74
     time: 1420695099
   "/sitemap.xml":
-    md5: c3b91acb27683cde7aa4499518e7cd79
-    time: 1434399666
+    md5: 75e0fb9a1c385eb265347610b984d307
+    time: 1434410138
   "/feed.xml":
-    md5: ce6d7bb04684390f59d0e583a26c9e34
-    time: 1434399666
+    md5: 074dae063141f621971ed4ffdaf2a7f0
+    time: 1434410138
   "/apple-touch-icon-114x114-precomposed.png":
     md5: 4b32f9176044704b1d5b97479282a2fc
     time: 1419980483
@@ -268,6 +271,9 @@ inventory:
   "/assets/Picture114.jpg":
     md5: 9acc823915e70f0d042b840b62731579
     time: 1430849674
+  "/assets/renewal center photo.jpg":
+    md5: 2a8048f60c0c9fd5c696b6d20ca8f83e
+    time: 1434410138
   "/assets/2014_Reading_Week_Brochure.pdf":
     md5: ff5c7590609614a45271e7ba7bbda79a
     time: 1419991835

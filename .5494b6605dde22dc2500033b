@@ -1,21 +1,24 @@
 ---
-time: 1434411325
+time: 1434480239
 inventory:
   "/index/index.html":
-    md5: c69277c062f12518f2d2bcb16844c0fa
-    time: 1434411321
+    md5: ab98fe0d3bc13e8f3be006d86ed6caa8
+    time: 1434480233
   "/index.html":
-    md5: c69277c062f12518f2d2bcb16844c0fa
-    time: 1434411321
+    md5: ab98fe0d3bc13e8f3be006d86ed6caa8
+    time: 1434480233
   "/about/index.html":
     md5: 6ac89a5696aa8f6b5d45226e21430c15
     time: 1428509128
   "/events/index.html":
-    md5: 9959fb0bdc78ba814fe00676ff82b287
-    time: 1434399663
+    md5: 1e673f8d57977c4778fa88b1f5d13971
+    time: 1434480233
   "/events/lectionary-reading-week/index.html":
     md5: 20a2c9ca18022468b6e0507ae307aa2e
     time: 1430849895
+  "/events/ministry-in-ghana/index.html":
+    md5: e428db8ef3a1607fb12f206fde5d9e25
+    time: 1434480233
   "/events/clergy-class-meetings-june-2015/index.html":
     md5: de9db211a25738a077476dd6cb6d17cb
     time: 1434399663
@@ -47,20 +50,20 @@ inventory:
     md5: 6bbdffa7f49b35db970e67aa9d156b4c
     time: 1420013226
   "/events/archive/index.html":
-    md5: 5c0479a08cfe1f74c902002253eade48
-    time: 1434399663
+    md5: f3563898c655750ebbf6be989d879fc2
+    time: 1434480234
   "/events/tags/index.html":
-    md5: 03370ae31564940799a2d5b9e0a3aff3
-    time: 1434399663
+    md5: 320548aee3568ea46752975a2cf307ab
+    time: 1434480234
   "/events/tags/prayer-walk/index.html":
-    md5: 995ffb195c0e3f426d1b77983d979254
-    time: 1434399663
+    md5: 4ca2de012598916085c3918bfb72fd50
+    time: 1434480234
   "/events/tags/st-pauls-umc/index.html":
-    md5: e14b398027812576b2d5aa199f52df9a
-    time: 1434399663
+    md5: 21a4b6093a516df398575fd9b6445212
+    time: 1434480234
   "/events/tags/san-bernardino/index.html":
-    md5: d3225b86b435e0672b3b7b463fe583f9
-    time: 1434399663
+    md5: b2f05ce954c34b102bbafc2173726a89
+    time: 1434480234
   "/blog/index.html":
     md5: e864d53f88056e560e0700806bd9042b
     time: 1434411321
@@ -128,11 +131,11 @@ inventory:
     md5: 053e51cc6ecf1f37a1105667ba3def74
     time: 1420695099
   "/sitemap.xml":
-    md5: 0d7c297037a038312442f87f6a65fcfe
-    time: 1434411322
+    md5: 326d456082bb96f47fca2d1265e8338b
+    time: 1434480234
   "/feed.xml":
-    md5: b0c8e3bdf77a7d832af6e47aea2e97fd
-    time: 1434411322
+    md5: e3db442c217349da9a146c8dcf644261
+    time: 1434480234
   "/apple-touch-icon-114x114-precomposed.png":
     md5: 4b32f9176044704b1d5b97479282a2fc
     time: 1419980483
@@ -280,6 +283,9 @@ inventory:
   "/assets/LIFT Center.jpg":
     md5: b29e11819d626fc11f55382417c9bdfc
     time: 1434411322
+  "/assets/mission_7656c.jpg":
+    md5: 1d542a6cf793b977daad11ee54fdb744
+    time: 1434480235
   "/assets/2014_Reading_Week_Brochure.pdf":
     md5: ff5c7590609614a45271e7ba7bbda79a
     time: 1419991835

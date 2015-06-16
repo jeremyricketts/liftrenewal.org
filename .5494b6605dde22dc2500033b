@@ -1,5 +1,5 @@
 ---
-time: 1434480989
+time: 1434481089
 inventory:
   "/index/index.html":
     md5: 3a84ed3138fcb5f9a7ebba771c53db74
@@ -17,8 +17,8 @@ inventory:
     md5: 20a2c9ca18022468b6e0507ae307aa2e
     time: 1430849895
   "/events/ministry-in-ghana/index.html":
-    md5: e428db8ef3a1607fb12f206fde5d9e25
-    time: 1434480233
+    md5: e13efc6ba7b42e903456c4098957f9ea
+    time: 1434481087
   "/events/clergy-class-meetings-june-2015/index.html":
     md5: 1228d9a5a10fab0b08cffe00375667b4
     time: 1434480986
@@ -131,11 +131,11 @@ inventory:
     md5: 053e51cc6ecf1f37a1105667ba3def74
     time: 1420695099
   "/sitemap.xml":
-    md5: c787975dffb10150d6e613ed280bf2e5
-    time: 1434480987
+    md5: 1e25554ee15e3746d94754b62bb632ea
+    time: 1434481088
   "/feed.xml":
-    md5: 1cbf988bfe20bb248ddfbc973910f71e
-    time: 1434480987
+    md5: 72fb976a17c16752849d246f391f804a
+    time: 1434481088
   "/apple-touch-icon-114x114-precomposed.png":
     md5: 4b32f9176044704b1d5b97479282a2fc
     time: 1419980483

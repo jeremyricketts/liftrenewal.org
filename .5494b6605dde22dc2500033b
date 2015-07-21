@@ -1,18 +1,18 @@
 ---
-time: 1436214358
+time: 1437506124
 inventory:
   "/index/index.html":
-    md5: df8612422a8af18a5f3bbde55d80a066
-    time: 1436214351
+    md5: e172d2a222cd72464b0aa6c8a268d4c6
+    time: 1437506116
   "/index.html":
-    md5: df8612422a8af18a5f3bbde55d80a066
-    time: 1436214351
+    md5: e172d2a222cd72464b0aa6c8a268d4c6
+    time: 1437506116
   "/about/index.html":
     md5: 6ac89a5696aa8f6b5d45226e21430c15
     time: 1428509128
   "/events/index.html":
-    md5: 3e59877e67c738d527f4dfc18a3f8371
-    time: 1436214351
+    md5: 84868ba7393c6dc304dd75b0f3256e6e
+    time: 1437506116
   "/events/lectionary-reading-week/index.html":
     md5: 20a2c9ca18022468b6e0507ae307aa2e
     time: 1430849895
@@ -20,8 +20,8 @@ inventory:
     md5: e13efc6ba7b42e903456c4098957f9ea
     time: 1434481087
   "/events/clergy-class-meetings-june-2015/index.html":
-    md5: 9aededac5a069807b181077795f6eeaa
-    time: 1436214351
+    md5: 3c12186ea41fd4ffb062c8075f3f1732
+    time: 1437506116
   "/events/renewal-center-in-ghana/index.html":
     md5: b54ed5b5ed4c37430b514823734a0209
     time: 1434410307
@@ -50,20 +50,20 @@ inventory:
     md5: 6bbdffa7f49b35db970e67aa9d156b4c
     time: 1420013226
   "/events/archive/index.html":
-    md5: 5b761157fd0d9b761a854998c6ae78c2
-    time: 1436214351
+    md5: 5425730c55485dac54743d722b021c0c
+    time: 1437506117
   "/events/tags/index.html":
-    md5: c91b75875ec9e9938711c2ddb9dd9d45
-    time: 1436214351
+    md5: f4370cf712e4d25005168d744ba65615
+    time: 1437506117
   "/events/tags/prayer-walk/index.html":
-    md5: ae871ff20c858752b84288ca53f521ef
-    time: 1436214351
+    md5: 59b76fc265f275acbd9e4642dab02577
+    time: 1437506117
   "/events/tags/st-pauls-umc/index.html":
-    md5: 6e8043c7a25b42aa7a8bc32d803a1cb0
-    time: 1436214351
+    md5: bdde134089825f39cc5a701337078365
+    time: 1437506117
   "/events/tags/san-bernardino/index.html":
-    md5: 1a010575572b84c926a465ae00cbb98f
-    time: 1436214352
+    md5: a6206a6a0883f44df1b8fcb5c0088507
+    time: 1437506117
   "/blog/index.html":
     md5: e864d53f88056e560e0700806bd9042b
     time: 1434411321
@@ -131,11 +131,11 @@ inventory:
     md5: 053e51cc6ecf1f37a1105667ba3def74
     time: 1420695099
   "/sitemap.xml":
-    md5: 146948ab12c8c17b21389c250e09db79
-    time: 1436214353
+    md5: 576034446ff94aff60011fd4417fa065
+    time: 1437506119
   "/feed.xml":
-    md5: 7af75726397b0e9081d3e409a8c81982
-    time: 1436214353
+    md5: 3752f29e95e2cba41b6e15319cf700a5
+    time: 1437506119
   "/apple-touch-icon-114x114-precomposed.png":
     md5: 4b32f9176044704b1d5b97479282a2fc
     time: 1419980483

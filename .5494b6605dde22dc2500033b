@@ -1,5 +1,5 @@
 ---
-time: 1441387252
+time: 1441387495
 inventory:
   "/index/index.html":
     md5: a1f17352669f7f08eaeb9b11a9ee14ff
@@ -16,9 +16,9 @@ inventory:
   "/events/lectionary-reading-week/index.html":
     md5: 20a2c9ca18022468b6e0507ae307aa2e
     time: 1430849895
-  "/events/prayer-walking/index.html":
+  "/events/prayer-walking-sept-12/index.html":
     md5: 3949e138d2bf112f321a29e781df3c13
-    time: 1441387246
+    time: 1441387492
   "/events/clergy-class-meetings-september-2015/index.html":
     md5: 782693bcd2179cd5b709e0ad677b3303
     time: 1441385977
@@ -134,11 +134,11 @@ inventory:
     md5: 053e51cc6ecf1f37a1105667ba3def74
     time: 1420695099
   "/sitemap.xml":
-    md5: 2bd998613828210adef09ff0758d5f38
-    time: 1441387247
+    md5: ed2494489dcc12d1ae444c5aa5e00da9
+    time: 1441387493
   "/feed.xml":
-    md5: 02366250718380c6f1af58951ef9d26e
-    time: 1441387247
+    md5: f1596937da494068fbaf4719d40bcf54
+    time: 1441387494
   "/apple-touch-icon-114x114-precomposed.png":
     md5: 4b32f9176044704b1d5b97479282a2fc
     time: 1419980483

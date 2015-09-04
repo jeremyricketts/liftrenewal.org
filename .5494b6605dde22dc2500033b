@@ -1,21 +1,24 @@
 ---
-time: 1441386555
+time: 1441387138
 inventory:
   "/index/index.html":
-    md5: a1f17352669f7f08eaeb9b11a9ee14ff
-    time: 1441385976
+    md5: 6c71916b7ebdb0fe0fcbcd5ff2013f9a
+    time: 1441387132
   "/index.html":
-    md5: a1f17352669f7f08eaeb9b11a9ee14ff
-    time: 1441385977
+    md5: 6c71916b7ebdb0fe0fcbcd5ff2013f9a
+    time: 1441387132
   "/about/index.html":
     md5: 6ac89a5696aa8f6b5d45226e21430c15
     time: 1428509128
   "/events/index.html":
-    md5: f91dbc9413d825d157afb1edb7885016
-    time: 1441385977
+    md5: 37aabc63245a2ac1158c44268a5f650b
+    time: 1441387132
   "/events/lectionary-reading-week/index.html":
     md5: 20a2c9ca18022468b6e0507ae307aa2e
     time: 1430849895
+  "/events/prayer-walking/index.html":
+    md5: 6eff052395d1d92a08f432e96382ffcd
+    time: 1441387132
   "/events/clergy-class-meetings-september-2015/index.html":
     md5: 782693bcd2179cd5b709e0ad677b3303
     time: 1441385977
@@ -50,20 +53,20 @@ inventory:
     md5: 6bbdffa7f49b35db970e67aa9d156b4c
     time: 1420013226
   "/events/archive/index.html":
-    md5: d294bfcd2f993d6f4a86b26d1c1cdc63
-    time: 1441385977
+    md5: 305f6b60ebad95628db1427df907b921
+    time: 1441387132
   "/events/tags/index.html":
-    md5: 2825afb236d869e0e388367774726df5
-    time: 1441385977
+    md5: 8f5610b3cc8447a5ce6d72f0b32970ba
+    time: 1441387132
   "/events/tags/prayer-walk/index.html":
-    md5: 57bc67e07170ab6b6677c1c02a83e2f4
-    time: 1441385977
+    md5: 60abbb0e1145541754f5ad936b231a2a
+    time: 1441387132
   "/events/tags/st-pauls-umc/index.html":
-    md5: e6b213bdc3b2978145986fd444badbd9
-    time: 1441385977
+    md5: a216ccb7766b0f68038fd6fcf6f36580
+    time: 1441387132
   "/events/tags/san-bernardino/index.html":
-    md5: 5b3208fa4eadc60cb117b175c9421b28
-    time: 1441385977
+    md5: 7317320c5a8a955325cd1a3a33250380
+    time: 1441387132
   "/blog/index.html":
     md5: e864d53f88056e560e0700806bd9042b
     time: 1434411321
@@ -131,11 +134,11 @@ inventory:
     md5: 053e51cc6ecf1f37a1105667ba3def74
     time: 1420695099
   "/sitemap.xml":
-    md5: 0acf3204cef7f6fe9cebd53da931db28
-    time: 1441386554
+    md5: 70832e60142646c9f9408395ed0ecb74
+    time: 1441387133
   "/feed.xml":
-    md5: 237b592f368866e9cb5f9bf9bd56f866
-    time: 1441386554
+    md5: 5aa058875ee9c9ed6b96c2de62426c6d
+    time: 1441387133
   "/apple-touch-icon-114x114-precomposed.png":
     md5: 4b32f9176044704b1d5b97479282a2fc
     time: 1419980483

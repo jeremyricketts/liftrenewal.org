@@ -1,5 +1,5 @@
 ---
-time: 1441385983
+time: 1441386441
 inventory:
   "/index/index.html":
     md5: a1f17352669f7f08eaeb9b11a9ee14ff
@@ -16,6 +16,9 @@ inventory:
   "/events/lectionary-reading-week/index.html":
     md5: 20a2c9ca18022468b6e0507ae307aa2e
     time: 1430849895
+  "/events/prayer-walking-9-12-2015/index.html":
+    md5: 5b9699110ef69dd207b9b12246ea1788
+    time: 1441386438
   "/events/clergy-class-meetings-september-2015/index.html":
     md5: 782693bcd2179cd5b709e0ad677b3303
     time: 1441385977
@@ -34,9 +37,6 @@ inventory:
   "/events/ministry-of-the-church-office/index.html":
     md5: e006b99078ec851fcdf084a602331114
     time: 1427137780
-  "/events/prayer-walking-2-14-2015/index.html":
-    md5: 023021da4b95bf667be82ca1720d5686
-    time: 1427141092
   "/events/board-of-directors-annual-meeting/index.html":
     md5: fcda7c5707f3221c67583868e7843102
     time: 1424987668
@@ -131,11 +131,11 @@ inventory:
     md5: 053e51cc6ecf1f37a1105667ba3def74
     time: 1420695099
   "/sitemap.xml":
-    md5: cde3d022d6da405f3c7020f6cc7b5618
-    time: 1441385978
+    md5: db0011e861cc879d735d8baedb82bd2d
+    time: 1441386440
   "/feed.xml":
-    md5: 47c0b5df2048d95e367630bd0a10acb0
-    time: 1441385978
+    md5: 68bd0e43c51bf194b5ec4b5b1750cb61
+    time: 1441386440
   "/apple-touch-icon-114x114-precomposed.png":
     md5: 4b32f9176044704b1d5b97479282a2fc
     time: 1419980483

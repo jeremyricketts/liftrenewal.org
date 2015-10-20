@@ -1,21 +1,24 @@
 ---
-time: 1445376528
+time: 1445376969
 inventory:
   "/index/index.html":
-    md5: f0cad7d28d4b28353a6efb4e21659b45
-    time: 1445376522
+    md5: 6d03804f99c0dfedd83cd8e4b9553bda
+    time: 1445376963
   "/index.html":
-    md5: f0cad7d28d4b28353a6efb4e21659b45
-    time: 1445376522
+    md5: 6d03804f99c0dfedd83cd8e4b9553bda
+    time: 1445376963
   "/about/index.html":
     md5: 6ac89a5696aa8f6b5d45226e21430c15
     time: 1445373673
   "/events/index.html":
-    md5: 4edfd21d629e0a1c8b66e286a82599fd
-    time: 1445376522
+    md5: f8c10292dddf561b07fec9391d959454
+    time: 1445376963
   "/events/lift-renewal-weekend-hemet/index.html":
     md5: a551a4961b1b921fadd92b6e4f4081ae
     time: 1445376522
+  "/events/christmas-open-house/index.html":
+    md5: 415385d8d9fe2e2a782c3972f1d40a0a
+    time: 1445376963
   "/events/prayer-walking-nov-14-1/index.html":
     md5: 807440c180527218632af2f137d337af
     time: 1445374773
@@ -59,23 +62,23 @@ inventory:
     md5: 6bbdffa7f49b35db970e67aa9d156b4c
     time: 1445373674
   "/events/archive/index.html":
-    md5: 2453a6b703453385c1893a16f344ab1f
-    time: 1445376523
+    md5: 70c7b7e78e00d41748e51415fb886cd9
+    time: 1445376963
   "/events/tags/index.html":
-    md5: 165ab7cf2f060fa8c11e1c54d8b4a1b2
-    time: 1445376523
+    md5: 51fec172f4e553926b333f007dbbdbf4
+    time: 1445376963
   "/events/tags/prayer-walk/index.html":
-    md5: f7d7ec04a12787e7d6d0ec93142adb7f
-    time: 1445376523
+    md5: 551779876c8bdba32e75643cf2699d59
+    time: 1445376963
   "/events/tags/st-pauls-umc/index.html":
-    md5: e5f3fd3ba283a36991829292ad9f79d3
-    time: 1445376523
+    md5: ed04a6a37e5463d30eb39635a698270b
+    time: 1445376963
   "/events/tags/san-bernardino/index.html":
-    md5: ad490efbee25f542ec3760fe1cd51339
-    time: 1445376523
+    md5: da106d46f89fcf8a992eab4f67e66ce9
+    time: 1445376963
   "/events/tag-set-name/index.html":
-    md5: 10679d00e19fdf8491bae9ee5d69f544
-    time: 1445376523
+    md5: 9cd1215128b010f91e72b275ca9bb2db
+    time: 1445376963
   "/blog/index.html":
     md5: e864d53f88056e560e0700806bd9042b
     time: 1445373674
@@ -143,11 +146,11 @@ inventory:
     md5: 053e51cc6ecf1f37a1105667ba3def74
     time: 1420695099
   "/sitemap.xml":
-    md5: 855217df9f56225330e37ba166b74458
-    time: 1445376523
+    md5: d855cabec6896508e50f142ab34cfcf0
+    time: 1445376964
   "/feed.xml":
-    md5: 04bb312baf460fa013998d24ee0467c2
-    time: 1445376523
+    md5: 794afda27ece6d4ca5c92ba72bd24a17
+    time: 1445376964
   "/apple-touch-icon-114x114-precomposed.png":
     md5: 4b32f9176044704b1d5b97479282a2fc
     time: 1419980483
@@ -307,6 +310,9 @@ inventory:
   "/assets/Butterfly-resized.jpg":
     md5: a71c0b74de11d697778411e8408ceb35
     time: 1445376524
+  "/assets/holly7c.jpg":
+    md5: 7b81a28e8cfe1c5494311188b67b51a4
+    time: 1445376964
   "/assets/2014_Reading_Week_Brochure.pdf":
     md5: ff5c7590609614a45271e7ba7bbda79a
     time: 1419991835

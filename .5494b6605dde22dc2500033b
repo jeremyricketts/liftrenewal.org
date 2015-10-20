@@ -1,5 +1,5 @@
 ---
-time: 1445372331
+time: 1445373472
 inventory:
   "/index/index.html":
     md5: da9d3f36fa75572a6aa3f57fba6ece56
@@ -76,6 +76,9 @@ inventory:
   "/index/events/index.html":
     md5: 24037b5ed0e94220a001a1a87eb41a7d
     time: 1445372312
+  "/index/events/prayer-walking-nov-14-1/index.html":
+    md5: 458708688f82cb3ad0c335e8b06a508b
+    time: 1445373470
   "/index/events/prayer-walking-nov-14/index.html":
     md5: f3845e34d23f2f257a8ffa128334d6f0
     time: 1445372312
@@ -137,8 +140,8 @@ inventory:
     md5: 8e49ca1b19f0adf7e1a7b15b8122510d
     time: 1445372313
   "/feed.xml":
-    md5: 38d98277afe82d2ba640bf6101e5a1f2
-    time: 1445372313
+    md5: 297262e2f96425e75cdf88122e7c62f2
+    time: 1445373471
   "/apple-touch-icon-114x114-precomposed.png":
     md5: 4b32f9176044704b1d5b97479282a2fc
     time: 1419980483
@@ -292,6 +295,9 @@ inventory:
   "/assets/community.jpg":
     md5: 28bedbdd7a291170dc1db5a1cab2feb3
     time: 1441387247
+  "/assets/community-1.jpg":
+    md5: 28bedbdd7a291170dc1db5a1cab2feb3
+    time: 1445373471
   "/assets/2014_Reading_Week_Brochure.pdf":
     md5: ff5c7590609614a45271e7ba7bbda79a
     time: 1419991835

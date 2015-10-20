@@ -1,5 +1,5 @@
 ---
-time: 1445373693
+time: 1445374110
 inventory:
   "/index/index.html":
     md5: c98118007f68e73074dbfb9e644edfca
@@ -14,8 +14,8 @@ inventory:
     md5: e93b976cb6964549783fee0b6130896d
     time: 1445373673
   "/events/prayer-walking-nov-14-1/index.html":
-    md5: a605e17ef6e5c3b8a63706aff28c3526
-    time: 1445373673
+    md5: d7f0718b30208bd722986ad54bfda4c8
+    time: 1445374107
   "/events/prayer-walking-nov-14/index.html":
     md5: f11bdb7d5dd203abdee494b73d361ec5
     time: 1445373673
@@ -70,6 +70,9 @@ inventory:
   "/events/tags/san-bernardino/index.html":
     md5: 4504ecbef73feee37cedf0bad72705fd
     time: 1445373674
+  "/events/tag-set-name/index.html":
+    md5: d1d35393b42b50a4c0316c72547d58e9
+    time: 1445374108
   "/blog/index.html":
     md5: e864d53f88056e560e0700806bd9042b
     time: 1445373674
@@ -137,11 +140,11 @@ inventory:
     md5: 053e51cc6ecf1f37a1105667ba3def74
     time: 1420695099
   "/sitemap.xml":
-    md5: 51fddb74fe1ae5df95c5fab60ab301ba
-    time: 1445373675
+    md5: 058a742a940cb7f4822ecb111fdd38d7
+    time: 1445374109
   "/feed.xml":
-    md5: c53e1d03f906dd6115dcad3a6fffba36
-    time: 1445373675
+    md5: 4ae2870542f2a5bd38e8aed9103fa510
+    time: 1445374109
   "/apple-touch-icon-114x114-precomposed.png":
     md5: 4b32f9176044704b1d5b97479282a2fc
     time: 1419980483

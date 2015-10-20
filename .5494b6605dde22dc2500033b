@@ -1,144 +1,144 @@
 ---
-time: 1445372217
+time: 1445372331
 inventory:
   "/index/index.html":
-    md5: f2cb6160cdef5631995916f6514d646c
-    time: 1445372211
+    md5: da9d3f36fa75572a6aa3f57fba6ece56
+    time: 1445372311
   "/index.html":
-    md5: f2cb6160cdef5631995916f6514d646c
-    time: 1445372211
+    md5: da9d3f36fa75572a6aa3f57fba6ece56
+    time: 1445372311
   "/about/index.html":
-    md5: 6ac89a5696aa8f6b5d45226e21430c15
-    time: 1428509128
-  "/events/index.html":
-    md5: b0d8d1ae35c9f035ad4d46fc5f9313aa
-    time: 1445372212
-  "/events/prayer-walking-nov-14/index.html":
-    md5: 91a048d9f6be624f0b32a35b875c4bba
-    time: 1445372212
-  "/events/lectionary-reading-week/index.html":
-    md5: 20a2c9ca18022468b6e0507ae307aa2e
-    time: 1430849895
-  "/events/clergy-class-meetings-september-2015/index.html":
-    md5: 782693bcd2179cd5b709e0ad677b3303
-    time: 1441385977
-  "/events/ministry-in-ghana/index.html":
-    md5: e13efc6ba7b42e903456c4098957f9ea
-    time: 1434481087
-  "/events/renewal-center-in-ghana/index.html":
-    md5: b54ed5b5ed4c37430b514823734a0209
-    time: 1434410307
-  "/events/prayer-walk-at-university-umc/index.html":
-    md5: dab29113184ae9dd699d7179dce6a42f
-    time: 1432242682
-  "/events/lift-renewal-weekend/index.html":
-    md5: 73683a3b0fb3b8804182444d1f32d4e2
-    time: 1432660023
-  "/events/ministry-of-the-church-office/index.html":
-    md5: e006b99078ec851fcdf084a602331114
-    time: 1427137780
-  "/events/prayer-walking-9-12-2015/index.html":
-    md5: 98d8938dfb48afea1fc4b973f0a0391d
-    time: 1441386552
-  "/events/board-of-directors-annual-meeting/index.html":
-    md5: fcda7c5707f3221c67583868e7843102
-    time: 1424987668
-  "/events/ghana-mission-meeting/index.html":
-    md5: 666bd25c3c438c5b9e8b14712bcbe653
-    time: 1424987601
-  "/events/inland-empire-prayer-walking/index.html":
-    md5: 0a2de1db981112c3115405c852fdaaa8
-    time: 1421104377
-  "/events/christmas-day/index.html":
-    md5: 6bbdffa7f49b35db970e67aa9d156b4c
-    time: 1420013226
-  "/events/archive/index.html":
-    md5: 6d1aefff8f3dad719e5843335de064d8
-    time: 1445372212
-  "/events/tags/index.html":
-    md5: 61410777fea9929b7f48ec03b1ed8edb
-    time: 1445372212
-  "/events/tags/prayer-walk/index.html":
-    md5: 2eb922c06c43ffbae807d57698a11d27
-    time: 1445372212
-  "/events/tags/st-pauls-umc/index.html":
-    md5: 33b4cbd0d25d4abdd229434874d05443
-    time: 1445372212
-  "/events/tags/san-bernardino/index.html":
-    md5: 73dea3f9358e8c0488db6b7fc10a93ed
-    time: 1445372212
+    md5: 1e098515a0d66784745201fc2abbea30
+    time: 1445372311
   "/blog/index.html":
-    md5: e864d53f88056e560e0700806bd9042b
-    time: 1434411321
+    md5: 57c043ef6ed1eeac7cb628fc6fc5889f
+    time: 1445372311
   "/blog/building-a-place-for-renewal/index.html":
-    md5: 5348f1fa32e179047deab80703dc9516
-    time: 1434411321
+    md5: b5752571bd6d3269368efb19e5457acf
+    time: 1445372311
   "/blog/a-distinguishing-birthmark/index.html":
-    md5: 10218dd45c35927d3e7b63e4acf85861
-    time: 1420013227
+    md5: 15d8a19e561adbb253a0efdea348f22e
+    time: 1445372311
   "/blog/god-at-work-within-us/index.html":
-    md5: 7a89d105d5b94a56dac11f75ab3621ac
-    time: 1420013227
+    md5: b0c7933080ef113b6336d04299f84e3b
+    time: 1445372311
   "/blog/its-the-little-things/index.html":
-    md5: 267de262b471257fdb475fd716efc8b9
-    time: 1420013227
+    md5: 782831e5410be82fd9acb5df4d9fa177
+    time: 1445372311
   "/blog/big-changes-at-lift/index.html":
-    md5: 4b4e1a4498f7e692a58e7ae7b989093e
-    time: 1420013227
+    md5: ec9a5f4ca3fd631a2f1a5c71cb53ccfd
+    time: 1445372311
   "/blog/disciples-are-sent-to-bear-fruit/index.html":
-    md5: daf766b59b7499f3c046d4f42e7a00cc
-    time: 1420013227
+    md5: 4378e2d1a49e05c98fe0e9fefd754515
+    time: 1445372311
   "/blog/almost-there-again/index.html":
-    md5: c9054a29bbf9a2c87d7767df12b86804
-    time: 1420013227
+    md5: 595625b3e8db02a558eb38bc89ab53ac
+    time: 1445372312
   "/blog/holy-week-confession/index.html":
-    md5: 4e18f4ea2227e9e32b308a36f99bcc44
-    time: 1420013227
+    md5: 4670a393141ffca5eda2b91f7174a0bf
+    time: 1445372312
   "/blog/the-passion-for-holiness/index.html":
-    md5: 2536b0b7794380a3e8d238aa3a7ab579
-    time: 1420013227
+    md5: b88b0ca4e38c9d24a607c999a4179759
+    time: 1445372312
   "/blog/got-rhythm/index.html":
-    md5: 4d1c64f76a4efc14cbb405d47fabcd50
-    time: 1420013227
+    md5: 345dbc6a4cfac7ebc7da0d890ea0b1ac
+    time: 1445372312
   "/blog/building-up-the-body-of-christ/index.html":
-    md5: b0781f57b231c44e8543e4ec46d47bff
-    time: 1420013227
+    md5: ea72bf52e7b358a328f81b045a09f631
+    time: 1445372312
   "/blog/archive/index.html":
-    md5: 8f2b6bae65f909f76d3ed4b55b7040a9
-    time: 1434411322
+    md5: 350692bb947458cbdcb637dee84e7005
+    time: 1445372312
   "/blog/tags/index.html":
-    md5: cc2760da5537cac74dfcebcf602c1ad0
-    time: 1434411322
+    md5: f37c4663025209563a62a394eb93050b
+    time: 1445372312
   "/donate/index.html":
-    md5: df57eb685a15dd20b82254e0a378b6f0
-    time: 1421790045
+    md5: a2f9bf9d16490f176748f599d409fe40
+    time: 1445372312
   "/contact/index.html":
-    md5: 102c670c29f8e5a87e90a5decd840e9c
-    time: 1420684921
+    md5: fc593af79803c016cd91e8a8222b9337
+    time: 1445372312
   "/about/3-day-renewal-experiences/index.html":
-    md5: d9b359293047f31a4828cdffea21cb17
-    time: 1419991832
+    md5: 2a97e5baad8d6be7a7766d1e4f64ded3
+    time: 1445372312
   "/about/lectionary-reading-weeks-for-preachers/index.html":
-    md5: fabc0fb0fd0ec1b7bda37edcf40b0f2a
-    time: 1419991832
+    md5: 537967450e39a18ca64afbf54060fb5c
+    time: 1445372312
   "/about/leadership-retreats-and-training/index.html":
-    md5: 92bd55274934d5c08fe5983ebc0c2060
-    time: 1419991832
+    md5: 057c77389e06232378bab000cd5ee97d
+    time: 1445372312
   "/about/coaching-for-clergy/index.html":
-    md5: 0cc8247826229adb1a2cbf61ec5c6e74
-    time: 1419991832
+    md5: d331e108b7330712fc45f55e4f456145
+    time: 1445372312
   "/about/conferences/index.html":
-    md5: 3a413ed81aba0830ae80733b0d096ea1
-    time: 1419991832
+    md5: 2251707b95b07cab1324611b805d3b91
+    time: 1445372312
+  "/index/events/index.html":
+    md5: 24037b5ed0e94220a001a1a87eb41a7d
+    time: 1445372312
+  "/index/events/prayer-walking-nov-14/index.html":
+    md5: f3845e34d23f2f257a8ffa128334d6f0
+    time: 1445372312
+  "/index/events/lectionary-reading-week/index.html":
+    md5: 71b3bd1f65ec26278702031290ca1834
+    time: 1445372312
+  "/index/events/clergy-class-meetings-september-2015/index.html":
+    md5: fae6cdaa6b42eb81d53a67cad040e65a
+    time: 1445372312
+  "/index/events/ministry-in-ghana/index.html":
+    md5: 92720a09e2fdfdf3a91481aa0ac029d7
+    time: 1445372312
+  "/index/events/renewal-center-in-ghana/index.html":
+    md5: a7cb0c8ffba4d6f4838f5c5d94b66abf
+    time: 1445372312
+  "/index/events/prayer-walk-at-university-umc/index.html":
+    md5: a57b93bcef16426ce274e601d747ea1d
+    time: 1445372312
+  "/index/events/lift-renewal-weekend/index.html":
+    md5: e14be7fe0107dc5a95d9e4f02e1f2743
+    time: 1445372312
+  "/index/events/ministry-of-the-church-office/index.html":
+    md5: 0da0622e486500d38650b07c7ced23aa
+    time: 1445372312
+  "/index/events/prayer-walking-9-12-2015/index.html":
+    md5: e2089df7f971d19b851d6a919f84b223
+    time: 1445372312
+  "/index/events/board-of-directors-annual-meeting/index.html":
+    md5: b704aca25f85849448bef91fbef94d3a
+    time: 1445372312
+  "/index/events/ghana-mission-meeting/index.html":
+    md5: 0e4243403afaa1a59037eec571efd30e
+    time: 1445372313
+  "/index/events/inland-empire-prayer-walking/index.html":
+    md5: baa37e86024df2dfca92c6c33cb9f93c
+    time: 1445372313
+  "/index/events/christmas-day/index.html":
+    md5: cd4e596a6c798bbae5fa0b916720f35d
+    time: 1445372313
+  "/index/events/archive/index.html":
+    md5: 7ed8f084a465ac7c6e7c8da2ac06a1f9
+    time: 1445372313
+  "/index/events/tags/index.html":
+    md5: e8ac8c887d8d1d3d6b25393ac0c693fd
+    time: 1445372313
+  "/index/events/tags/prayer-walk/index.html":
+    md5: 2a0efc96eb090f3165f1a3de54a8fcad
+    time: 1445372313
+  "/index/events/tags/st-pauls-umc/index.html":
+    md5: 5a1ce81201122358c0e091159d6866cd
+    time: 1445372313
+  "/index/events/tags/san-bernardino/index.html":
+    md5: e8adc1066ee82f51f3e355100b3c1490
+    time: 1445372313
   "/CNAME":
     md5: 053e51cc6ecf1f37a1105667ba3def74
     time: 1420695099
   "/sitemap.xml":
-    md5: 74b0d275331412ac3149b99fb445f512
-    time: 1445372213
+    md5: 8e49ca1b19f0adf7e1a7b15b8122510d
+    time: 1445372313
   "/feed.xml":
-    md5: 5c7829d1f85ccbd0ca2747557396755c
-    time: 1445372213
+    md5: 38d98277afe82d2ba640bf6101e5a1f2
+    time: 1445372313
   "/apple-touch-icon-114x114-precomposed.png":
     md5: 4b32f9176044704b1d5b97479282a2fc
     time: 1419980483

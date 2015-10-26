@@ -1,5 +1,5 @@
 ---
-time: 1445889730
+time: 1445889907
 inventory:
   "/index/index.html":
     md5: 9d10c5f05a81df6fc8a4bda8f1e66613
@@ -131,8 +131,8 @@ inventory:
     md5: d9b359293047f31a4828cdffea21cb17
     time: 1445373674
   "/about/lectionary-reading-weeks-for-preachers/index.html":
-    md5: 5f615911c6b99945b46ef33dee04421f
-    time: 1445889729
+    md5: 20fbf292daa1279dafce8c78768ecb3b
+    time: 1445889905
   "/about/leadership-retreats-and-training/index.html":
     md5: 92bd55274934d5c08fe5983ebc0c2060
     time: 1445373674
@@ -149,8 +149,8 @@ inventory:
     md5: 8404c8ab0de1d4a90496b5c27e42f76d
     time: 1445377365
   "/feed.xml":
-    md5: d2861b3b53be5f6e3afb7e4b46aa7bc8
-    time: 1445889729
+    md5: 89570996efda2b4531af645871af97d2
+    time: 1445889905
   "/apple-touch-icon-114x114-precomposed.png":
     md5: 4b32f9176044704b1d5b97479282a2fc
     time: 1419980483
@@ -319,9 +319,9 @@ inventory:
   "/assets/73e744fca5403846942b1cf2dd089e61eca17d5a.jpg":
     md5: 8409dce87fbc4c914b1d7a48a7f56f54
     time: 1419991837
-  "/assets/2015 Reading Week Brochure.pdf":
+  "/assets/2015-Reading-Week-Brochure.pdf":
     md5: 661303ed95584e20f0fbfb3c374b8474
-    time: 1445885324
+    time: 1445889905
   "/assets/DSCN1042.JPG":
     md5: 48fa904564a0d92f7dfa728ab3265ae4
     time: 1420753605

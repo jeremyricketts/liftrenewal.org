@@ -1,5 +1,5 @@
 ---
-time: 1445377369
+time: 1445885325
 inventory:
   "/index/index.html":
     md5: 9d10c5f05a81df6fc8a4bda8f1e66613
@@ -131,8 +131,8 @@ inventory:
     md5: d9b359293047f31a4828cdffea21cb17
     time: 1445373674
   "/about/lectionary-reading-weeks-for-preachers/index.html":
-    md5: fabc0fb0fd0ec1b7bda37edcf40b0f2a
-    time: 1445373674
+    md5: a5dbbbcb31dd3839f2953d0b9696ff8d
+    time: 1445885324
   "/about/leadership-retreats-and-training/index.html":
     md5: 92bd55274934d5c08fe5983ebc0c2060
     time: 1445373674
@@ -149,8 +149,8 @@ inventory:
     md5: 8404c8ab0de1d4a90496b5c27e42f76d
     time: 1445377365
   "/feed.xml":
-    md5: d075caac84e081498bd5a629b1450ade
-    time: 1445377365
+    md5: a9b046be22f98ff50a46b80bddb0d885
+    time: 1445885324
   "/apple-touch-icon-114x114-precomposed.png":
     md5: 4b32f9176044704b1d5b97479282a2fc
     time: 1419980483
@@ -313,15 +313,15 @@ inventory:
   "/assets/walk_9698c-1.jpg":
     md5: a6259fdd7a52545cffe56de718b4403e
     time: 1445377216
-  "/assets/2014_Reading_Week_Brochure.pdf":
-    md5: ff5c7590609614a45271e7ba7bbda79a
-    time: 1419991835
   "/assets/LIFT Annual Retreat.jpg":
     md5: e52e04ea51e3fde8da5b5c9273c079e5
     time: 1420753604
   "/assets/73e744fca5403846942b1cf2dd089e61eca17d5a.jpg":
     md5: 8409dce87fbc4c914b1d7a48a7f56f54
     time: 1419991837
+  "/assets/2015 Reading Week Brochure.pdf":
+    md5: 661303ed95584e20f0fbfb3c374b8474
+    time: 1445885324
   "/assets/DSCN1042.JPG":
     md5: 48fa904564a0d92f7dfa728ab3265ae4
     time: 1420753605

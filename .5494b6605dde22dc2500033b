@@ -1,18 +1,18 @@
 ---
-time: 1445889907
+time: 1447800989
 inventory:
   "/index/index.html":
-    md5: 9d10c5f05a81df6fc8a4bda8f1e66613
-    time: 1445377288
+    md5: ece3396ec522ba5e16c65562f7142682
+    time: 1447800983
   "/index.html":
-    md5: 9d10c5f05a81df6fc8a4bda8f1e66613
-    time: 1445377288
+    md5: ece3396ec522ba5e16c65562f7142682
+    time: 1447800983
   "/about/index.html":
     md5: 6ac89a5696aa8f6b5d45226e21430c15
     time: 1445373673
   "/events/index.html":
-    md5: f25bf66f343ded7316d5e14593278e9b
-    time: 1445377363
+    md5: 339781f3aad9764d813de7f15b489e23
+    time: 1447800984
   "/events/lift-renewal-weekend-hemet/index.html":
     md5: d937ea66ccd1af5383f73d168d73d72f
     time: 1445377363
@@ -62,29 +62,29 @@ inventory:
     md5: 6bbdffa7f49b35db970e67aa9d156b4c
     time: 1445373674
   "/events/archive/index.html":
-    md5: 57465e36c62627436ed5e4a15eb6ad3d
-    time: 1445377364
+    md5: 332fae16ece31bb5289866a8d3892b6c
+    time: 1447800984
   "/events/tags/index.html":
-    md5: f7822e76ae12b2bff71525d18fbbdf42
-    time: 1445377364
+    md5: 68ea6371dd01dbdcb413ea86c36abfab
+    time: 1447800984
   "/events/tags/prayer-walk/index.html":
-    md5: ec8c6ca78eacee92b0f0ed00447f612b
-    time: 1445377364
+    md5: 61e239ded0eb9c652dbccd5c284ece7e
+    time: 1447800984
   "/events/tags/st-pauls-umc/index.html":
-    md5: 71be93b2035763fe2378e84a1d7974c0
-    time: 1445377364
+    md5: 08e018ae5e4265daec1bc55bfdd2a2f1
+    time: 1447800984
   "/events/tags/san-bernardino/index.html":
-    md5: 6819725f02df6154451fc44afe032c33
-    time: 1445377364
+    md5: 4c805adf88269ad7d6ee8950e4d5116c
+    time: 1447800984
   "/events/tag-set-name/index.html":
-    md5: d3f8afc0a76cf7f22079397bf9b9b6d7
-    time: 1445377364
+    md5: a58cca52e28245e12817179e7ff611ee
+    time: 1447800984
   "/blog/index.html":
     md5: e864d53f88056e560e0700806bd9042b
     time: 1445373674
   "/blog/building-a-place-for-renewal/index.html":
-    md5: 5348f1fa32e179047deab80703dc9516
-    time: 1445373674
+    md5: 2bd814bb5feba10d5ac1220d9b0211f4
+    time: 1447800984
   "/blog/a-distinguishing-birthmark/index.html":
     md5: 10218dd45c35927d3e7b63e4acf85861
     time: 1445373674
@@ -146,11 +146,11 @@ inventory:
     md5: 053e51cc6ecf1f37a1105667ba3def74
     time: 1420695099
   "/sitemap.xml":
-    md5: 8404c8ab0de1d4a90496b5c27e42f76d
-    time: 1445377365
+    md5: ce8322acb5acdbfcd811c49fc48a665d
+    time: 1447800984
   "/feed.xml":
-    md5: 89570996efda2b4531af645871af97d2
-    time: 1445889905
+    md5: f855f9e9584ef3470a212ffe2ccf4434
+    time: 1447800984
   "/apple-touch-icon-114x114-precomposed.png":
     md5: 4b32f9176044704b1d5b97479282a2fc
     time: 1419980483

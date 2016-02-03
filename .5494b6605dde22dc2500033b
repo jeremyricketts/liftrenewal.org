@@ -1,5 +1,5 @@
 ---
-time: 1454542350
+time: 1454543719
 inventory:
   "/index/index.html":
     md5: 4c8c9e3b45ad0d1caba2fe12fdc97acf
@@ -8,8 +8,8 @@ inventory:
     md5: 4c8c9e3b45ad0d1caba2fe12fdc97acf
     time: 1454542344
   "/about/index.html":
-    md5: 6ac89a5696aa8f6b5d45226e21430c15
-    time: 1445373673
+    md5: fd8108b8e75733c4e44a1aa3d6db570e
+    time: 1454543712
   "/events/index.html":
     md5: 9cbce5967e470d19115586e51dd8dc15
     time: 1454542344
@@ -152,11 +152,11 @@ inventory:
     md5: 053e51cc6ecf1f37a1105667ba3def74
     time: 1420695099
   "/sitemap.xml":
-    md5: e17aa52b2b10a79c9a4b8a19b90a3b78
-    time: 1454542345
+    md5: ce3565b33dca819f7c67d1e96d39df7a
+    time: 1454543713
   "/feed.xml":
-    md5: 66479b09aa9dc259c0747f91d00ea3d3
-    time: 1454542345
+    md5: 13b557e8b711a2dc07d38cc7df48193a
+    time: 1454543713
   "/apple-touch-icon-114x114-precomposed.png":
     md5: 4b32f9176044704b1d5b97479282a2fc
     time: 1419980483
@@ -319,42 +319,54 @@ inventory:
   "/assets/walk_9698c-1.jpg":
     md5: a6259fdd7a52545cffe56de718b4403e
     time: 1445377216
-  "/assets/LIFT Annual Retreat.jpg":
-    md5: e52e04ea51e3fde8da5b5c9273c079e5
-    time: 1420753604
-  "/assets/73e744fca5403846942b1cf2dd089e61eca17d5a.jpg":
-    md5: 8409dce87fbc4c914b1d7a48a7f56f54
-    time: 1419991837
-  "/assets/2015-Reading-Week-Brochure.pdf":
-    md5: 661303ed95584e20f0fbfb3c374b8474
-    time: 1445889905
-  "/assets/DSCN1042.JPG":
-    md5: 48fa904564a0d92f7dfa728ab3265ae4
-    time: 1420753605
-  "/assets/100_1781.JPG":
-    md5: 3da5d7ecad2682cc19928438cef725a7
-    time: 1420753605
-  "/assets/692c96aea350ab5d116367e044bcf442fa727b5a.jpg":
-    md5: d121d1701cd664a592bed67349adc87b
-    time: 1419991838
+  "/assets/DSCN3475.JPG":
+    md5: 91e54a436fec8c5dc7d0bf48a986d81b
+    time: 1454543713
   "/assets/DSCN0867.JPG":
     md5: e414d032a3d2c212cd98eaf5632912d4
     time: 1419991833
-  "/assets/1b9fd2b396aaa89c03fed64037f400df19979927.jpg":
-    md5: 6460364a7a1d0c42bf266100d93f9c15
-    time: 1419991836
-  "/assets/DSCN2408.JPG":
-    md5: 19a7467d8f651ce5c31d9465f815d440
-    time: 1420753608
+  "/assets/2015-Reading-Week-Brochure.pdf":
+    md5: 661303ed95584e20f0fbfb3c374b8474
+    time: 1445889905
+  "/assets/Photo 1.jpg":
+    md5: 8fcb54d63dbfc7ba1138d37d604ba55f
+    time: 1454543714
+  "/assets/73e744fca5403846942b1cf2dd089e61eca17d5a.jpg":
+    md5: 8409dce87fbc4c914b1d7a48a7f56f54
+    time: 1419991837
+  "/assets/DSCN3446.JPG":
+    md5: 633530e48e7d5e6293ee672a9f96de18
+    time: 1454543714
+  "/assets/DSCN1042.JPG":
+    md5: 48fa904564a0d92f7dfa728ab3265ae4
+    time: 1420753605
   "/assets/a41465a9b5f5f9819799a21d5c19c6721ce9601e.jpg":
     md5: d6850765e13fb7823862955cd0382bcc
     time: 1419991839
+  "/assets/100_1781.JPG":
+    md5: 3da5d7ecad2682cc19928438cef725a7
+    time: 1420753605
+  "/assets/LIFT Annual Retreat.jpg":
+    md5: e52e04ea51e3fde8da5b5c9273c079e5
+    time: 1420753604
+  "/assets/DSCN2408.JPG":
+    md5: 19a7467d8f651ce5c31d9465f815d440
+    time: 1420753608
+  "/assets/692c96aea350ab5d116367e044bcf442fa727b5a.jpg":
+    md5: d121d1701cd664a592bed67349adc87b
+    time: 1419991838
+  "/assets/1b9fd2b396aaa89c03fed64037f400df19979927.jpg":
+    md5: 6460364a7a1d0c42bf266100d93f9c15
+    time: 1419991836
   "/assets/837c4dc1762d7fe2fba644bff98f130074dd4fb1.jpg":
     md5: 397d910576b895b4aa107f1473961a84
     time: 1419991838
   "/assets/4b6d8613d103d49157a59725523e6f7ad8ad7362.jpg":
     md5: 357a197197d2d0606580956ccbf9dd0f
     time: 1419991836
+  "/assets/DSCN3328.jpg":
+    md5: b19058d7a92c130fa53e25e0dd01e2bb
+    time: 1454543715
   "/assets/DSCN0905.JPG":
     md5: c506006570dbc8135d752096c897a295
     time: 1419991835

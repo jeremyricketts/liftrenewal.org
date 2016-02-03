@@ -1,18 +1,21 @@
 ---
-time: 1454541587
+time: 1454542350
 inventory:
   "/index/index.html":
-    md5: 38539068956ff5ab679d38cf5f2e5514
-    time: 1454541581
+    md5: 4c8c9e3b45ad0d1caba2fe12fdc97acf
+    time: 1454542344
   "/index.html":
-    md5: 38539068956ff5ab679d38cf5f2e5514
-    time: 1454541581
+    md5: 4c8c9e3b45ad0d1caba2fe12fdc97acf
+    time: 1454542344
   "/about/index.html":
     md5: 6ac89a5696aa8f6b5d45226e21430c15
     time: 1445373673
   "/events/index.html":
-    md5: 6e1f4e0e9aca2d438a7a3c1a5d21b16c
-    time: 1454541581
+    md5: 9cbce5967e470d19115586e51dd8dc15
+    time: 1454542344
+  "/events/ministry-of-the-church-office/index.html":
+    md5: 3fe77c702e6c9b4d75a50ae7121b4ea2
+    time: 1454542344
   "/events/prayer-walk-at-university-umc/index.html":
     md5: f9c1db824e9d272c94ed0564ac886abd
     time: 1454541581
@@ -43,9 +46,6 @@ inventory:
   "/events/lift-renewal-weekend/index.html":
     md5: 73683a3b0fb3b8804182444d1f32d4e2
     time: 1445373673
-  "/events/ministry-of-the-church-office/index.html":
-    md5: e006b99078ec851fcdf084a602331114
-    time: 1445373673
   "/events/prayer-walking-9-12-2015/index.html":
     md5: 98d8938dfb48afea1fc4b973f0a0391d
     time: 1445373673
@@ -58,27 +58,24 @@ inventory:
   "/events/inland-empire-prayer-walking/index.html":
     md5: 0a2de1db981112c3115405c852fdaaa8
     time: 1445373674
-  "/events/christmas-day/index.html":
-    md5: 6bbdffa7f49b35db970e67aa9d156b4c
-    time: 1445373674
   "/events/archive/index.html":
-    md5: 4c6a3854cd5b828fa643c72208632916
-    time: 1454541581
+    md5: 52adf53555abedbde1d80ddca913ef0f
+    time: 1454542344
   "/events/tags/index.html":
-    md5: 12690fd45b855a8af421c9dd6c1a7d1b
-    time: 1454541581
+    md5: 497e0116519569b012260448737f1cda
+    time: 1454542344
   "/events/tags/prayer-walk/index.html":
-    md5: f1bcca44a412b7d9234e044f0a4b59ea
-    time: 1454541581
+    md5: dce6f5eb775e182f9866cf4d3d0c66d5
+    time: 1454542344
   "/events/tags/st-pauls-umc/index.html":
-    md5: 9749b4afc25b3918648072b5205d6944
-    time: 1454541581
+    md5: 50201e9f8264bc2c9c819113ddb574af
+    time: 1454542345
   "/events/tags/san-bernardino/index.html":
-    md5: af82d592550c65e03f252a1a644d3ebb
-    time: 1454541581
+    md5: 3f2bae6ae66e8574c09b79409031c8dd
+    time: 1454542345
   "/events/tag-set-name/index.html":
-    md5: aad0783e6d2afc33ebe68404d52a2326
-    time: 1454541581
+    md5: 27345453697fa27520c887c2a28840ce
+    time: 1454542345
   "/blog/index.html":
     md5: e44a8aebaa9407f8c19939be595b37c1
     time: 1454540933
@@ -155,11 +152,11 @@ inventory:
     md5: 053e51cc6ecf1f37a1105667ba3def74
     time: 1420695099
   "/sitemap.xml":
-    md5: 1e6c80fda482e205443d84d36e0dfb4e
-    time: 1454541582
+    md5: e17aa52b2b10a79c9a4b8a19b90a3b78
+    time: 1454542345
   "/feed.xml":
-    md5: dd34eac01f7e106d5f3e6fb04086eb7f
-    time: 1454541582
+    md5: 66479b09aa9dc259c0747f91d00ea3d3
+    time: 1454542345
   "/apple-touch-icon-114x114-precomposed.png":
     md5: 4b32f9176044704b1d5b97479282a2fc
     time: 1419980483

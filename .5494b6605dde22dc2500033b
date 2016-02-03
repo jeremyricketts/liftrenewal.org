@@ -1,18 +1,18 @@
 ---
-time: 1447800989
+time: 1454540758
 inventory:
   "/index/index.html":
-    md5: ece3396ec522ba5e16c65562f7142682
-    time: 1447800983
+    md5: d2f4ac0ff6268e9f16d2538120a82232
+    time: 1454540750
   "/index.html":
-    md5: ece3396ec522ba5e16c65562f7142682
-    time: 1447800983
+    md5: d2f4ac0ff6268e9f16d2538120a82232
+    time: 1454540750
   "/about/index.html":
     md5: 6ac89a5696aa8f6b5d45226e21430c15
     time: 1445373673
   "/events/index.html":
-    md5: 339781f3aad9764d813de7f15b489e23
-    time: 1447800984
+    md5: e93b976cb6964549783fee0b6130896d
+    time: 1454540750
   "/events/lift-renewal-weekend-hemet/index.html":
     md5: d937ea66ccd1af5383f73d168d73d72f
     time: 1445377363
@@ -62,26 +62,32 @@ inventory:
     md5: 6bbdffa7f49b35db970e67aa9d156b4c
     time: 1445373674
   "/events/archive/index.html":
-    md5: 332fae16ece31bb5289866a8d3892b6c
-    time: 1447800984
+    md5: 74c6dfda967624f9a4be98ad19ecbd0f
+    time: 1454540751
   "/events/tags/index.html":
-    md5: 68ea6371dd01dbdcb413ea86c36abfab
-    time: 1447800984
+    md5: d1863341949da62add3eb297110d74f3
+    time: 1454540751
   "/events/tags/prayer-walk/index.html":
-    md5: 61e239ded0eb9c652dbccd5c284ece7e
-    time: 1447800984
+    md5: 8d48a92c2e5ce058455c890466b726b3
+    time: 1454540751
   "/events/tags/st-pauls-umc/index.html":
-    md5: 08e018ae5e4265daec1bc55bfdd2a2f1
-    time: 1447800984
+    md5: d95b0d28c17b7138ba6f29205cff803d
+    time: 1454540751
   "/events/tags/san-bernardino/index.html":
-    md5: 4c805adf88269ad7d6ee8950e4d5116c
-    time: 1447800984
+    md5: 4504ecbef73feee37cedf0bad72705fd
+    time: 1454540751
   "/events/tag-set-name/index.html":
-    md5: a58cca52e28245e12817179e7ff611ee
-    time: 1447800984
+    md5: d1d35393b42b50a4c0316c72547d58e9
+    time: 1454540751
   "/blog/index.html":
-    md5: e864d53f88056e560e0700806bd9042b
-    time: 1445373674
+    md5: a606d9bb38274b1220deaed61672edc4
+    time: 1454540751
+  "/blog/abide/index.html":
+    md5: 6a64ce1a1574adc6e36b332bf3fd5fb1
+    time: 1454540751
+  "/blog/discipleship-personal-but-never-private/index.html":
+    md5: 99953e8115b503205decc7745ee11fbd
+    time: 1454540751
   "/blog/building-a-place-for-renewal/index.html":
     md5: 2bd814bb5feba10d5ac1220d9b0211f4
     time: 1447800984
@@ -116,11 +122,11 @@ inventory:
     md5: b0781f57b231c44e8543e4ec46d47bff
     time: 1445373674
   "/blog/archive/index.html":
-    md5: 8f2b6bae65f909f76d3ed4b55b7040a9
-    time: 1445373674
+    md5: 4d8e9a1caeffc514c48dcaaeaaa3b0f2
+    time: 1454540751
   "/blog/tags/index.html":
-    md5: cc2760da5537cac74dfcebcf602c1ad0
-    time: 1445373674
+    md5: 8fbff0813002b256a78f4459048d2e21
+    time: 1454540751
   "/donate/index.html":
     md5: df57eb685a15dd20b82254e0a378b6f0
     time: 1445373674
@@ -146,11 +152,11 @@ inventory:
     md5: 053e51cc6ecf1f37a1105667ba3def74
     time: 1420695099
   "/sitemap.xml":
-    md5: ce8322acb5acdbfcd811c49fc48a665d
-    time: 1447800984
+    md5: 408f53614c0864cbd3a2467ee4dd8004
+    time: 1454540751
   "/feed.xml":
-    md5: f855f9e9584ef3470a212ffe2ccf4434
-    time: 1447800984
+    md5: bbe2a6e5e76aef223f9cccc67665b100
+    time: 1454540751
   "/apple-touch-icon-114x114-precomposed.png":
     md5: 4b32f9176044704b1d5b97479282a2fc
     time: 1419980483

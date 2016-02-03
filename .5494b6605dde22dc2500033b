@@ -1,18 +1,21 @@
 ---
-time: 1454540937
+time: 1454541587
 inventory:
   "/index/index.html":
-    md5: e8e74466b881562369f0a100dfd0c8d1
-    time: 1454540933
+    md5: 38539068956ff5ab679d38cf5f2e5514
+    time: 1454541581
   "/index.html":
-    md5: e8e74466b881562369f0a100dfd0c8d1
-    time: 1454540933
+    md5: 38539068956ff5ab679d38cf5f2e5514
+    time: 1454541581
   "/about/index.html":
     md5: 6ac89a5696aa8f6b5d45226e21430c15
     time: 1445373673
   "/events/index.html":
-    md5: e93b976cb6964549783fee0b6130896d
-    time: 1454540750
+    md5: 6e1f4e0e9aca2d438a7a3c1a5d21b16c
+    time: 1454541581
+  "/events/prayer-walk-at-university-umc/index.html":
+    md5: f9c1db824e9d272c94ed0564ac886abd
+    time: 1454541581
   "/events/lift-renewal-weekend-hemet/index.html":
     md5: d937ea66ccd1af5383f73d168d73d72f
     time: 1445377363
@@ -37,9 +40,6 @@ inventory:
   "/events/renewal-center-in-ghana/index.html":
     md5: b54ed5b5ed4c37430b514823734a0209
     time: 1445373673
-  "/events/prayer-walk-at-university-umc/index.html":
-    md5: dab29113184ae9dd699d7179dce6a42f
-    time: 1445373673
   "/events/lift-renewal-weekend/index.html":
     md5: 73683a3b0fb3b8804182444d1f32d4e2
     time: 1445373673
@@ -62,23 +62,23 @@ inventory:
     md5: 6bbdffa7f49b35db970e67aa9d156b4c
     time: 1445373674
   "/events/archive/index.html":
-    md5: 74c6dfda967624f9a4be98ad19ecbd0f
-    time: 1454540751
+    md5: 4c6a3854cd5b828fa643c72208632916
+    time: 1454541581
   "/events/tags/index.html":
-    md5: d1863341949da62add3eb297110d74f3
-    time: 1454540751
+    md5: 12690fd45b855a8af421c9dd6c1a7d1b
+    time: 1454541581
   "/events/tags/prayer-walk/index.html":
-    md5: 8d48a92c2e5ce058455c890466b726b3
-    time: 1454540751
+    md5: f1bcca44a412b7d9234e044f0a4b59ea
+    time: 1454541581
   "/events/tags/st-pauls-umc/index.html":
-    md5: d95b0d28c17b7138ba6f29205cff803d
-    time: 1454540751
+    md5: 9749b4afc25b3918648072b5205d6944
+    time: 1454541581
   "/events/tags/san-bernardino/index.html":
-    md5: 4504ecbef73feee37cedf0bad72705fd
-    time: 1454540751
+    md5: af82d592550c65e03f252a1a644d3ebb
+    time: 1454541581
   "/events/tag-set-name/index.html":
-    md5: d1d35393b42b50a4c0316c72547d58e9
-    time: 1454540751
+    md5: aad0783e6d2afc33ebe68404d52a2326
+    time: 1454541581
   "/blog/index.html":
     md5: e44a8aebaa9407f8c19939be595b37c1
     time: 1454540933
@@ -155,11 +155,11 @@ inventory:
     md5: 053e51cc6ecf1f37a1105667ba3def74
     time: 1420695099
   "/sitemap.xml":
-    md5: 224b45ed3e7343731eeac4f178ebe118
-    time: 1454540934
+    md5: 1e6c80fda482e205443d84d36e0dfb4e
+    time: 1454541582
   "/feed.xml":
-    md5: e89b7ac38193f8394ed4ad8c729daaef
-    time: 1454540934
+    md5: dd34eac01f7e106d5f3e6fb04086eb7f
+    time: 1454541582
   "/apple-touch-icon-114x114-precomposed.png":
     md5: 4b32f9176044704b1d5b97479282a2fc
     time: 1419980483

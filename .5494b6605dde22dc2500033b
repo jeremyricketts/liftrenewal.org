@@ -1,18 +1,21 @@
 ---
-time: 1457395906
+time: 1457398045
 inventory:
   "/index/index.html":
-    md5: 6e4d8e60ac3bbc8569a75d2a48d5c0c1
-    time: 1457395900
+    md5: 05f25786bf1d962ad2f9dcbc75d8e82c
+    time: 1457398039
   "/index.html":
-    md5: 6e4d8e60ac3bbc8569a75d2a48d5c0c1
-    time: 1457395900
+    md5: 05f25786bf1d962ad2f9dcbc75d8e82c
+    time: 1457398039
   "/about/index.html":
     md5: f417066fe9719043e749a08b8f73a88d
     time: 1454970736
   "/events/index.html":
-    md5: ea66aa9116b44518a9ead676cfe3b0fe
-    time: 1457395901
+    md5: d8680b384ad946a706c985ca1430796c
+    time: 1457398039
+  "/events/lectionary-reading-week/index.html":
+    md5: ecf17c8426409cc6569d2c61cd587b6a
+    time: 1457398039
   "/events/prayer-walk-at-del-rosa-umc/index.html":
     md5: 773cca333767a85d0cf891b1cf465fe1
     time: 1457395901
@@ -30,9 +33,6 @@ inventory:
     time: 1445377215
   "/events/prayer-walking-nov-14/index.html":
     md5: f11bdb7d5dd203abdee494b73d361ec5
-    time: 1445373673
-  "/events/lectionary-reading-week/index.html":
-    md5: 20a2c9ca18022468b6e0507ae307aa2e
     time: 1445373673
   "/events/clergy-class-meetings-september-2015/index.html":
     md5: 782693bcd2179cd5b709e0ad677b3303
@@ -59,23 +59,23 @@ inventory:
     md5: 0a2de1db981112c3115405c852fdaaa8
     time: 1445373674
   "/events/archive/index.html":
-    md5: be7a3ca9c14215609a7c9c404e71259c
-    time: 1457395901
+    md5: fe6fddfbfbcdcb725ea2cf0bb26d78ef
+    time: 1457398039
   "/events/tags/index.html":
-    md5: bb5c620367b0b5154b5d0eacdc6e101f
-    time: 1457395901
+    md5: f37778d2a8a0c7f6438a263a0fe688c1
+    time: 1457398039
   "/events/tags/prayer-walk/index.html":
-    md5: c8d3bacf3de428d09e69874e4ee6fcab
-    time: 1457395901
+    md5: 4b2422fdbf17c61aa92acf74a3f31e5e
+    time: 1457398039
   "/events/tags/st-pauls-umc/index.html":
-    md5: 27dc2407287c941eb4b8eb8607d14b5b
-    time: 1457395901
+    md5: eee4578313bf12e6c572057cac2eed61
+    time: 1457398039
   "/events/tags/san-bernardino/index.html":
-    md5: 882b40e0254c67adaa748c7ae6047866
-    time: 1457395901
+    md5: 6cdb81d1b05e9db4acc7982de96fee0a
+    time: 1457398039
   "/events/tag-set-name/index.html":
-    md5: 1898b31420c19031b315794efdc9b1f4
-    time: 1457395901
+    md5: 5a250d5a6af92b3eec74206c914216e0
+    time: 1457398039
   "/blog/index.html":
     md5: e44a8aebaa9407f8c19939be595b37c1
     time: 1454540933
@@ -152,11 +152,11 @@ inventory:
     md5: 053e51cc6ecf1f37a1105667ba3def74
     time: 1420695099
   "/sitemap.xml":
-    md5: 8c1642020744ee5464d0dd141cc6bde0
-    time: 1457395902
+    md5: 0836b76b872c9ea69244ba6c070fd592
+    time: 1457398040
   "/feed.xml":
-    md5: f384539e1691531bbe4d34cae591fcd8
-    time: 1457395902
+    md5: 0aac481acdedfd34c8d92a754f1b1022
+    time: 1457398040
   "/apple-touch-icon-114x114-precomposed.png":
     md5: 4b32f9176044704b1d5b97479282a2fc
     time: 1419980483
@@ -319,6 +319,9 @@ inventory:
   "/assets/walk_9698c-1.jpg":
     md5: a6259fdd7a52545cffe56de718b4403e
     time: 1445377216
+  "/assets/2016 Reading Week Brochure.pdf":
+    md5: 352d2c8771c6a46f47eceb9bee1c9d48
+    time: 1457398040
   "/assets/DSCN3475.JPG":
     md5: 91e54a436fec8c5dc7d0bf48a986d81b
     time: 1454543713

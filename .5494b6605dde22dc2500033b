@@ -1,24 +1,24 @@
 ---
-time: 1463767117
+time: 1463767308
 inventory:
   "/index/index.html":
-    md5: 676a8c2785d277c0914184cc5eb4cec7
-    time: 1463767110
+    md5: f727c8e91e956405b4ed5b2a85871300
+    time: 1463767301
   "/index.html":
-    md5: 676a8c2785d277c0914184cc5eb4cec7
-    time: 1463767110
+    md5: f727c8e91e956405b4ed5b2a85871300
+    time: 1463767301
   "/about/index.html":
     md5: f417066fe9719043e749a08b8f73a88d
     time: 1454970736
   "/events/index.html":
-    md5: f79d0a4f2d224bb041c5e6e8fedfdeab
-    time: 1463767111
-  "/events/prayer-walk-at-higland-umc/index.html":
-    md5: 4f649ed057840f33ea6186be34e6aa90
-    time: 1463767111
+    md5: ddcb9fcf0b3109835e9ffda180a7a35b
+    time: 1463767301
   "/events/lectionary-reading-week/index.html":
     md5: ecf17c8426409cc6569d2c61cd587b6a
     time: 1457398039
+  "/events/prayer-walk-at-higland-umc/index.html":
+    md5: 114b6708f30987d413142daa904307a4
+    time: 1463767301
   "/events/ministry-of-the-church-office/index.html":
     md5: 3fe77c702e6c9b4d75a50ae7121b4ea2
     time: 1454542344
@@ -59,23 +59,23 @@ inventory:
     md5: 0a2de1db981112c3115405c852fdaaa8
     time: 1445373674
   "/events/archive/index.html":
-    md5: 7051c39b6034bfd587210606ec2bf713
-    time: 1463767111
+    md5: 6deca55aa69d9a3893e67d29ae974e62
+    time: 1463767302
   "/events/tags/index.html":
-    md5: c40bec75765a388097437a75f3a693e1
-    time: 1463767111
+    md5: 4897d0994f888cb010d0612b98b00c62
+    time: 1463767302
   "/events/tags/prayer-walk/index.html":
-    md5: 880fdbedc684a62bb8857b3d0ee35742
-    time: 1463767111
+    md5: 730663b24d3eb0b961d049ababcee5b0
+    time: 1463767302
   "/events/tags/st-pauls-umc/index.html":
-    md5: 03b112a9d3ad0755d0ec67d178faebf8
-    time: 1463767111
+    md5: 874e8e9ab7abf6e3bfcb21b6843e67cd
+    time: 1463767302
   "/events/tags/san-bernardino/index.html":
-    md5: d460c7f312ae2cb1cdb7bfd92151f511
-    time: 1463767111
+    md5: 8b2d347d8a12910b9c586c1511ae1afc
+    time: 1463767302
   "/events/tag-set-name/index.html":
-    md5: d28c7018369ec08c764db2483549297a
-    time: 1463767111
+    md5: 8550cc1019ffd788e3bac76b53d39481
+    time: 1463767302
   "/blog/index.html":
     md5: e44a8aebaa9407f8c19939be595b37c1
     time: 1454540933
@@ -152,11 +152,11 @@ inventory:
     md5: 053e51cc6ecf1f37a1105667ba3def74
     time: 1420695099
   "/sitemap.xml":
-    md5: f29427382366f1bd3007c29fc295a662
-    time: 1463767112
+    md5: 51ad9c4e8b9424bb2bdf8cbe96a3f81d
+    time: 1463767303
   "/feed.xml":
-    md5: 7d60b52cf4062bfde74d8f95714bc411
-    time: 1463767112
+    md5: aa2ac4724de55dc75496fa59656b69ac
+    time: 1463767303
   "/apple-touch-icon-114x114-precomposed.png":
     md5: 4b32f9176044704b1d5b97479282a2fc
     time: 1419980483

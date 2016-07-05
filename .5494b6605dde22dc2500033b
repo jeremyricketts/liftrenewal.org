@@ -1,24 +1,27 @@
 ---
-time: 1467741865
+time: 1467744079
 inventory:
   "/index/index.html":
-    md5: b2390ac393979a8af01c52f8c7959f2d
-    time: 1467741857
+    md5: 0bd8c54cff276c974c9a4ae83730dd37
+    time: 1467744071
   "/index.html":
-    md5: b2390ac393979a8af01c52f8c7959f2d
-    time: 1467741857
+    md5: 0bd8c54cff276c974c9a4ae83730dd37
+    time: 1467744071
   "/about/index.html":
     md5: f417066fe9719043e749a08b8f73a88d
     time: 1454970736
   "/events/index.html":
-    md5: 9fa071e1f44f4934e542bcb3800f993e
-    time: 1467741858
+    md5: e0e6251babe08d655e855c9427110c22
+    time: 1467744072
   "/events/lectionary-reading-week/index.html":
     md5: ecf17c8426409cc6569d2c61cd587b6a
     time: 1457398039
   "/events/prayer-walk-at-st-pauls-umc/index.html":
-    md5: 9e863749193d1be7437aea494f2b76ca
-    time: 1467741858
+    md5: 204e4cac1835c87d30bdc9bfbb036534
+    time: 1467744072
+  "/events/spoke-n-word/index.html":
+    md5: 73549d93a59f6b96e4a49a642cb1efc1
+    time: 1467744072
   "/events/ministry-of-the-church-office/index.html":
     md5: 3fe77c702e6c9b4d75a50ae7121b4ea2
     time: 1454542344
@@ -59,23 +62,23 @@ inventory:
     md5: 0a2de1db981112c3115405c852fdaaa8
     time: 1445373674
   "/events/archive/index.html":
-    md5: 309441044edb98c438202ac438ae3f45
-    time: 1467741858
+    md5: f2afabbb0d1cc15b98cff9eb7f10801c
+    time: 1467744072
   "/events/tags/index.html":
-    md5: 06bb3ac27193fce065d496a974fd1d99
-    time: 1467741858
+    md5: e8c379c8c190dc40d9eed5ae84d65f7b
+    time: 1467744072
   "/events/tags/prayer-walk/index.html":
-    md5: b4f56a0ebbf5f9bd25cf23c14bc89400
-    time: 1467741858
+    md5: 4e080d76df62e9414691584d3c326e86
+    time: 1467744072
   "/events/tags/st-pauls-umc/index.html":
-    md5: 477fcfd8b734e0eb9a41b3b07fdd23d2
-    time: 1467741858
+    md5: 9b448507f7a3e8338bab2693e9bd0ca6
+    time: 1467744072
   "/events/tags/san-bernardino/index.html":
-    md5: 07250b2c28145fae262c7a772045a29c
-    time: 1467741858
+    md5: 90cfe775ea254f3a19d575b1363f47fa
+    time: 1467744072
   "/events/tag-set-name/index.html":
-    md5: b2592e197984f58fbe74ed91872f35d4
-    time: 1467741858
+    md5: b1bea5002165bed4a862c858faac3197
+    time: 1467744072
   "/blog/index.html":
     md5: e44a8aebaa9407f8c19939be595b37c1
     time: 1454540933
@@ -152,11 +155,11 @@ inventory:
     md5: 053e51cc6ecf1f37a1105667ba3def74
     time: 1420695099
   "/sitemap.xml":
-    md5: a898325be03b504c24ee3872ba4e4905
-    time: 1467741859
+    md5: cc2c4384f3f9c0b7802bd078cc8f94fb
+    time: 1467744073
   "/feed.xml":
-    md5: 10e4e59212ee044fed1d4d8365738dc4
-    time: 1467741860
+    md5: 7db12f753abb44c61d924b4262fef5dc
+    time: 1467744073
   "/apple-touch-icon-114x114-precomposed.png":
     md5: 4b32f9176044704b1d5b97479282a2fc
     time: 1419980483

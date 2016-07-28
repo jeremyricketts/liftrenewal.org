@@ -1,27 +1,27 @@
 ---
-time: 1469041903
+time: 1469730520
 inventory:
   "/index/index.html":
-    md5: dd6a692fc6b2651010a488b725653dd8
-    time: 1469041895
+    md5: 44930a85a8f50dcfe9627e04672f6190
+    time: 1469730512
   "/index.html":
-    md5: dd6a692fc6b2651010a488b725653dd8
-    time: 1469041895
+    md5: 44930a85a8f50dcfe9627e04672f6190
+    time: 1469730512
   "/about/index.html":
     md5: f417066fe9719043e749a08b8f73a88d
     time: 1454970736
   "/events/index.html":
-    md5: 32efad7ac32ef27f125735ce75feb52e
-    time: 1469041896
+    md5: 3230833ff0cb68dad5b485085d5b033d
+    time: 1469730513
   "/events/lectionary-reading-week/index.html":
     md5: a0b0a5ea5e4374e661977d69a1870b1e
     time: 1469041530
+  "/events/spoke-n-word/index.html":
+    md5: 2c3076a3fcae9be6bb99eeb447888f0d
+    time: 1469730513
   "/events/prayer-walk-at-fontana-umc/index.html":
     md5: b1a180ede3d075b1e3ced5879ad6d20d
     time: 1469041896
-  "/events/spoke-n-word/index.html":
-    md5: 73549d93a59f6b96e4a49a642cb1efc1
-    time: 1467744072
   "/events/ministry-of-the-church-office/index.html":
     md5: 3fe77c702e6c9b4d75a50ae7121b4ea2
     time: 1454542344
@@ -62,23 +62,23 @@ inventory:
     md5: 0a2de1db981112c3115405c852fdaaa8
     time: 1445373674
   "/events/archive/index.html":
-    md5: ad2b69dac4f4e662930dc59eba75a9f7
-    time: 1469041897
+    md5: 5f8da1d6f14b4c5d33e842d3a2d1df1a
+    time: 1469730513
   "/events/tags/index.html":
-    md5: 8201e2816a289041bff1b41e6424db86
-    time: 1469041897
+    md5: bb7376c58b36ad0599b28d4865642e4e
+    time: 1469730513
   "/events/tags/prayer-walk/index.html":
-    md5: ffdbd53cfa20b6863f56cadb1f09cef6
-    time: 1469041897
+    md5: 8402fde2cbb86a8056ccf3efc8b2a9fe
+    time: 1469730513
   "/events/tags/st-pauls-umc/index.html":
-    md5: dba39c85cbfe407d0ac6a87a8545d880
-    time: 1469041897
+    md5: 3cf6f3ba7e6a58ae1d2599997defe238
+    time: 1469730513
   "/events/tags/san-bernardino/index.html":
-    md5: c670ea23d78abf2b316c8373669168ec
-    time: 1469041897
+    md5: 8122fc1278b52de37e28cab3553a1247
+    time: 1469730513
   "/events/tag-set-name/index.html":
-    md5: 62e5d03fc5cd0b0b10f90ad7e68cdd44
-    time: 1469041897
+    md5: 870f4a0cf6eaf96394a60b05cd1e2831
+    time: 1469730513
   "/blog/index.html":
     md5: e44a8aebaa9407f8c19939be595b37c1
     time: 1454540933
@@ -155,11 +155,11 @@ inventory:
     md5: 053e51cc6ecf1f37a1105667ba3def74
     time: 1420695099
   "/sitemap.xml":
-    md5: c763c32a3eb0309a0521b4bc2bac0454
-    time: 1469041898
+    md5: 47dde2e1fffe67257f267238bd5d8c72
+    time: 1469730514
   "/feed.xml":
-    md5: 88623dcd8e19162e68a1b03b64031aef
-    time: 1469041898
+    md5: 8dc478ff8f1a6897563dae351de457c6
+    time: 1469730514
   "/apple-touch-icon-114x114-precomposed.png":
     md5: 4b32f9176044704b1d5b97479282a2fc
     time: 1419980483
@@ -325,6 +325,9 @@ inventory:
   "/assets/2016 Reading Week Brochure.pdf":
     md5: 352d2c8771c6a46f47eceb9bee1c9d48
     time: 1457398040
+  "/assets/SpokeNWord2].jpg":
+    md5: 5233c9155e20ea9e6813a3a351f0b186
+    time: 1469730515
   "/assets/DSCN3475.JPG":
     md5: 91e54a436fec8c5dc7d0bf48a986d81b
     time: 1454543713

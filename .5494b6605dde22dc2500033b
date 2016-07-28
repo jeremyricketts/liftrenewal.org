@@ -1,5 +1,5 @@
 ---
-time: 1469730520
+time: 1469730682
 inventory:
   "/index/index.html":
     md5: 44930a85a8f50dcfe9627e04672f6190
@@ -17,8 +17,8 @@ inventory:
     md5: a0b0a5ea5e4374e661977d69a1870b1e
     time: 1469041530
   "/events/spoke-n-word/index.html":
-    md5: 2c3076a3fcae9be6bb99eeb447888f0d
-    time: 1469730513
+    md5: b6c56b6dc2fb1f122b654240c6406a5e
+    time: 1469730678
   "/events/prayer-walk-at-fontana-umc/index.html":
     md5: b1a180ede3d075b1e3ced5879ad6d20d
     time: 1469041896
@@ -155,11 +155,11 @@ inventory:
     md5: 053e51cc6ecf1f37a1105667ba3def74
     time: 1420695099
   "/sitemap.xml":
-    md5: 47dde2e1fffe67257f267238bd5d8c72
-    time: 1469730514
+    md5: 2ebb31359a43886861c30978068d6a05
+    time: 1469730680
   "/feed.xml":
-    md5: 8dc478ff8f1a6897563dae351de457c6
-    time: 1469730514
+    md5: bd5653b3708846bffb7320d6e27e2196
+    time: 1469730680
   "/apple-touch-icon-114x114-precomposed.png":
     md5: 4b32f9176044704b1d5b97479282a2fc
     time: 1419980483

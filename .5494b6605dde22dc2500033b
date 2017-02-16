@@ -1,18 +1,21 @@
 ---
-time: 1487272785
+time: 1487273258
 inventory:
   "/index/index.html":
-    md5: 23a58321d13b03b8b1f545410917b77d
-    time: 1487272779
+    md5: 785595d26b32d1845b582fb2a089b937
+    time: 1487273252
   "/index.html":
-    md5: 23a58321d13b03b8b1f545410917b77d
-    time: 1487272779
+    md5: 785595d26b32d1845b582fb2a089b937
+    time: 1487273252
   "/about/index.html":
     md5: f417066fe9719043e749a08b8f73a88d
     time: 1454970736
   "/events/index.html":
-    md5: 17ae8aa38e5ef9f58ce333864725050b
-    time: 1487272779
+    md5: 78f27439c0e00f2af2412023baf8650a
+    time: 1487273252
+  "/events/lift-renewal-weekend-hemet/index.html":
+    md5: 759bcd7e0d3bd4bb165efd54c3569346
+    time: 1487273252
   "/events/lectionary-reading-week/index.html":
     md5: 80585a0430242f524c26a3a49d9e29b8
     time: 1487272779
@@ -22,9 +25,6 @@ inventory:
   "/events/ministry-of-the-church-office/index.html":
     md5: 3fe77c702e6c9b4d75a50ae7121b4ea2
     time: 1454542344
-  "/events/lift-renewal-weekend-hemet/index.html":
-    md5: d937ea66ccd1af5383f73d168d73d72f
-    time: 1445377363
   "/events/christmas-open-house/index.html":
     md5: ed42527d463b25ced8b87e9e3ff831d7
     time: 1445377288
@@ -62,20 +62,20 @@ inventory:
     md5: 7d53a549019631c577422d1088364262
     time: 1487266559
   "/events/tags/index.html":
-    md5: 2ec94906a6e9db06b4c0e1787b3b3313
-    time: 1487272779
+    md5: adaf9560400667d68d760527462aac97
+    time: 1487273252
   "/events/tags/prayer-walk/index.html":
-    md5: 5ff332320904530f362474bd79326e0e
-    time: 1487272779
+    md5: 1dd1b60017f13bcc2410cc6b7e6d9355
+    time: 1487273253
   "/events/tags/st-pauls-umc/index.html":
-    md5: c0a2567d08f282e2ad2fe3ee63c94efd
-    time: 1487272779
+    md5: f65532363fea5e8fb5bb42931aa3ccee
+    time: 1487273253
   "/events/tags/san-bernardino/index.html":
-    md5: bc7cf543fe456df461a1bf9e2ef9596d
-    time: 1487272779
+    md5: a5dbca98b8315ffe58f9dc2e1662ec62
+    time: 1487273253
   "/events/tag-set-name/index.html":
-    md5: 25ee30f68713502413e14cc198d1c89c
-    time: 1487272779
+    md5: 3330b2ab9e4195e49ab2a62c10d017ef
+    time: 1487273253
   "/blog/index.html":
     md5: e44a8aebaa9407f8c19939be595b37c1
     time: 1454540933
@@ -152,11 +152,11 @@ inventory:
     md5: 053e51cc6ecf1f37a1105667ba3def74
     time: 1420695099
   "/sitemap.xml":
-    md5: 6249ab28856be429cf7aca49682f2a27
-    time: 1487272780
+    md5: 2e0b5c21997811af61401343e60b85a2
+    time: 1487273253
   "/feed.xml":
-    md5: 69b5d24b79cba9ce1db68402207ea787
-    time: 1487272780
+    md5: 02b3a6732aecac4d295f505b2a1f86d8
+    time: 1487273253
   "/apple-touch-icon-114x114-precomposed.png":
     md5: 4b32f9176044704b1d5b97479282a2fc
     time: 1419980483

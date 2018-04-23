@@ -1,24 +1,24 @@
 ---
-time: 1495741499
+time: 1524502079
 inventory:
   "/index/index.html":
-    md5: 77c41226ab0934a965d2fdb185501f72
-    time: 1495741493
+    md5: 96de657d2c3223cc5cbee867f7337988
+    time: 1524502072
   "/index.html":
-    md5: 77c41226ab0934a965d2fdb185501f72
-    time: 1495741493
+    md5: 96de657d2c3223cc5cbee867f7337988
+    time: 1524502072
   "/about/index.html":
     md5: f417066fe9719043e749a08b8f73a88d
     time: 1454970736
   "/events/index.html":
-    md5: 2a381ea4a43fcc4022372897de796950
-    time: 1495741493
+    md5: ddc857d67f2d87e7f134e41be118a458
+    time: 1524502072
+  "/events/lectionary-reading-week/index.html":
+    md5: 38607dc4f4a7944a564c26aee526d037
+    time: 1524502072
   "/events/lift-renewal-weekend-hemet/index.html":
     md5: 759bcd7e0d3bd4bb165efd54c3569346
     time: 1487273252
-  "/events/lectionary-reading-week/index.html":
-    md5: 80585a0430242f524c26a3a49d9e29b8
-    time: 1487272779
   "/events/prayer-walk-at-rialto-umc/index.html":
     md5: d35f9d6552ece55ff36d35680a0fbbef
     time: 1495741493
@@ -62,20 +62,20 @@ inventory:
     md5: 7d53a549019631c577422d1088364262
     time: 1487266559
   "/events/tags/index.html":
-    md5: 1ee20154519d7f9b6487d1b9f71c28fa
-    time: 1495741494
+    md5: 461d45ea18b294bfe36aa2d65d921816
+    time: 1524502073
   "/events/tags/prayer-walk/index.html":
-    md5: d179879c6649fedf659f4c1903b62612
-    time: 1495741494
+    md5: f8db1defee78cd800743043ffa182cad
+    time: 1524502073
   "/events/tags/st-pauls-umc/index.html":
-    md5: 7a113493a357c29cb33eb3476befcb3f
-    time: 1495741494
+    md5: 1abc19b79bf81b223081ea97bfcfec32
+    time: 1524502073
   "/events/tags/san-bernardino/index.html":
-    md5: 613b1dc034337a341990e6d7cb99d18c
-    time: 1495741494
+    md5: af2796e61f7ab0cf151b1704af1473c5
+    time: 1524502073
   "/events/tag-set-name/index.html":
-    md5: cd7131937b27077905bbdfbf44926a6e
-    time: 1495741494
+    md5: ed4211e8df31f2b2f7ba5f0fc35e57f0
+    time: 1524502073
   "/blog/index.html":
     md5: e44a8aebaa9407f8c19939be595b37c1
     time: 1454540933
@@ -152,11 +152,11 @@ inventory:
     md5: 053e51cc6ecf1f37a1105667ba3def74
     time: 1420695099
   "/sitemap.xml":
-    md5: 57602f1edbb90cf9b1980af778211a5e
-    time: 1495741495
+    md5: 1271f35208c06c938902fc816d312f1c
+    time: 1524502074
   "/feed.xml":
-    md5: f9e1b847ea7e0be50064b368fa53d7f8
-    time: 1495741495
+    md5: b536b2fa599d472743c37048dc2c9d46
+    time: 1524502074
   "/apple-touch-icon-114x114-precomposed.png":
     md5: 4b32f9176044704b1d5b97479282a2fc
     time: 1419980483

@@ -1,21 +1,24 @@
 ---
-time: 1524774027
+time: 1524775131
 inventory:
   "/index/index.html":
-    md5: c60b0ee7fed778149e379e58f4f9555b
-    time: 1524774020
+    md5: 36700c7bde825e61d0a1e70c0154704b
+    time: 1524775124
   "/index.html":
-    md5: c60b0ee7fed778149e379e58f4f9555b
-    time: 1524774020
+    md5: 36700c7bde825e61d0a1e70c0154704b
+    time: 1524775124
   "/about/index.html":
     md5: 75131909be0dd30f870cdd413e48b2d2
     time: 1524512433
   "/events/index.html":
-    md5: 4d98617624d718a50341cd2b82b04a87
-    time: 1524774021
+    md5: 901c6e24314652367118978eedbeb346
+    time: 1524775124
   "/events/lectionary-reading-week/index.html":
     md5: 38607dc4f4a7944a564c26aee526d037
     time: 1524502072
+  "/events/lift-ministries-at-annual-conference/index.html":
+    md5: 0651585f0f270943f3c95b7b8f55ff1f
+    time: 1524775124
   "/events/free-seminar-the-general-rule-of-discipleship/index.html":
     md5: 10dce40b2d9bab1b629f05bb541eef02
     time: 1524774021
@@ -65,20 +68,20 @@ inventory:
     md5: 7d53a549019631c577422d1088364262
     time: 1487266559
   "/events/tags/index.html":
-    md5: 56f94c2d2383cd6df03bc7648fc7b172
-    time: 1524774021
+    md5: 74906d51a391e496dc86922440974631
+    time: 1524775125
   "/events/tags/prayer-walk/index.html":
-    md5: 96caf81d08ac6da13ff1c0c610971d2a
-    time: 1524774021
+    md5: 60cd9c6e0871827d2f8d837501f4e460
+    time: 1524775125
   "/events/tags/st-pauls-umc/index.html":
-    md5: 6591b1df266daf9226f18e9dd34a46bf
-    time: 1524774021
+    md5: c5f5c1af2ae855232f1e1e7999cc12bf
+    time: 1524775125
   "/events/tags/san-bernardino/index.html":
-    md5: cca3bc58a3e30a48c3edee0de93a9a09
-    time: 1524774021
+    md5: b8393ba9d48f6881696703a5a6376142
+    time: 1524775125
   "/events/tag-set-name/index.html":
-    md5: d3757e6b8fe86376099fc6f6d6b3e89b
-    time: 1524774021
+    md5: 5303d940991a6be18ef74ef1ad389c50
+    time: 1524775125
   "/blog/index.html":
     md5: e44a8aebaa9407f8c19939be595b37c1
     time: 1454540933
@@ -155,11 +158,11 @@ inventory:
     md5: 053e51cc6ecf1f37a1105667ba3def74
     time: 1420695099
   "/sitemap.xml":
-    md5: d67d2cdf474719dab2987466049e9d9b
-    time: 1524774022
+    md5: efbf3ac9991b14644f2b73b839dbeae9
+    time: 1524775126
   "/feed.xml":
-    md5: 66250ae9525dae2f79aea0afb6047965
-    time: 1524774022
+    md5: 6b99bedc392a9fb610584d83c979e506
+    time: 1524775126
   "/apple-touch-icon-114x114-precomposed.png":
     md5: 4b32f9176044704b1d5b97479282a2fc
     time: 1419980483
@@ -331,6 +334,9 @@ inventory:
   "/assets/Picture1.jpg":
     md5: 4e1a9ea019c631cb77a801207357bfa8
     time: 1524774022
+  "/assets/conference_10317c.jpg":
+    md5: 140514b5c9edc44d3b98d122919de10a
+    time: 1524775126
   "/assets/DSCN3475.JPG":
     md5: 91e54a436fec8c5dc7d0bf48a986d81b
     time: 1454543713

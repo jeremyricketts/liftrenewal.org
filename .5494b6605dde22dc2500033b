@@ -1,5 +1,5 @@
 ---
-time: 1524775131
+time: 1524779283
 inventory:
   "/index/index.html":
     md5: 36700c7bde825e61d0a1e70c0154704b
@@ -14,8 +14,8 @@ inventory:
     md5: 901c6e24314652367118978eedbeb346
     time: 1524775124
   "/events/lectionary-reading-week/index.html":
-    md5: 38607dc4f4a7944a564c26aee526d037
-    time: 1524502072
+    md5: 9e407fee815e803c770352af784fbbe6
+    time: 1524779279
   "/events/lift-ministries-at-annual-conference/index.html":
     md5: 0651585f0f270943f3c95b7b8f55ff1f
     time: 1524775124
@@ -158,11 +158,11 @@ inventory:
     md5: 053e51cc6ecf1f37a1105667ba3def74
     time: 1420695099
   "/sitemap.xml":
-    md5: efbf3ac9991b14644f2b73b839dbeae9
-    time: 1524775126
+    md5: 07da0b85132222a5c09177e8caf1bd20
+    time: 1524779280
   "/feed.xml":
-    md5: 6b99bedc392a9fb610584d83c979e506
-    time: 1524775126
+    md5: 3498edd12148cf9ed958fb2a856b93a1
+    time: 1524779280
   "/apple-touch-icon-114x114-precomposed.png":
     md5: 4b32f9176044704b1d5b97479282a2fc
     time: 1419980483
@@ -340,6 +340,9 @@ inventory:
   "/assets/DSCN3475.JPG":
     md5: 91e54a436fec8c5dc7d0bf48a986d81b
     time: 1454543713
+  "/assets/2018 Reading Week Brochure socal.pdf":
+    md5: 024c4904bf6f9b89abf0ca8943351db4
+    time: 1524779280
   "/assets/DSCN0867.JPG":
     md5: e414d032a3d2c212cd98eaf5632912d4
     time: 1419991833

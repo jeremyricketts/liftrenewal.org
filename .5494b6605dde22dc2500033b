@@ -1,21 +1,21 @@
 ---
-time: 1554768202
+time: 1580235449
 inventory:
   "/index/index.html":
-    md5: 72eeeaa4aa01354f340aaf08de30aaee
-    time: 1554768084
+    md5: e8e74466b881562369f0a100dfd0c8d1
+    time: 1580235443
   "/index.html":
-    md5: 72eeeaa4aa01354f340aaf08de30aaee
-    time: 1554768084
+    md5: e8e74466b881562369f0a100dfd0c8d1
+    time: 1580235443
   "/about/index.html":
     md5: 75131909be0dd30f870cdd413e48b2d2
     time: 1524512433
   "/events/index.html":
-    md5: b39a9f8edf0cd91a03803998cda51225
-    time: 1554768197
+    md5: e93b976cb6964549783fee0b6130896d
+    time: 1580235443
   "/events/lift-ministries-at-annual-conference/index.html":
-    md5: d9c3f3f8bc875f4f1bdd9c9a83f95ac6
-    time: 1554767875
+    md5: ca1ce3d4450186c3b9f453745b0c58a9
+    time: 1580235443
   "/events/prayer-walk-at-rialto-umc/index.html":
     md5: f6eac38c20f0bfe89dc8f8bd177a3199
     time: 1554768197
@@ -68,20 +68,20 @@ inventory:
     md5: 7d53a549019631c577422d1088364262
     time: 1487266559
   "/events/tags/index.html":
-    md5: 827c486df4399b5cfac6eea2e6cec53f
-    time: 1554768197
+    md5: d1863341949da62add3eb297110d74f3
+    time: 1580235444
   "/events/tags/prayer-walk/index.html":
-    md5: 3339bba29462dd9d6e5375c25070f8bb
-    time: 1554768197
+    md5: 8d48a92c2e5ce058455c890466b726b3
+    time: 1580235444
   "/events/tags/st-pauls-umc/index.html":
-    md5: b5f89e017eb22e0548afbbcc0c876af3
-    time: 1554768197
+    md5: d95b0d28c17b7138ba6f29205cff803d
+    time: 1580235444
   "/events/tags/san-bernardino/index.html":
-    md5: c8d58a90b84a528d40c37ce1e2fa4edb
-    time: 1554768197
+    md5: 4504ecbef73feee37cedf0bad72705fd
+    time: 1580235444
   "/events/tag-set-name/index.html":
-    md5: ba8775b96bc5b16628baa0fe5b6c1e64
-    time: 1554768197
+    md5: d1d35393b42b50a4c0316c72547d58e9
+    time: 1580235444
   "/blog/index.html":
     md5: e44a8aebaa9407f8c19939be595b37c1
     time: 1454540933
@@ -158,11 +158,11 @@ inventory:
     md5: 053e51cc6ecf1f37a1105667ba3def74
     time: 1420695099
   "/sitemap.xml":
-    md5: cfc97cc36bada2126433688eed0e4cb0
-    time: 1554768198
+    md5: 878249c5a18926e6f29828e6f2c4cfc9
+    time: 1580235445
   "/feed.xml":
-    md5: 49d0f7f502e51bdc0bc2b111f0ae3726
-    time: 1554768198
+    md5: 4e214cd5c855e192e6476014b38feeae
+    time: 1580235445
   "/apple-touch-icon-114x114-precomposed.png":
     md5: 4b32f9176044704b1d5b97479282a2fc
     time: 1419980483

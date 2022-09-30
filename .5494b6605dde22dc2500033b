@@ -1,5 +1,5 @@
 ---
-time: 1580235449
+time: 1664578904
 inventory:
   "/index/index.html":
     md5: e8e74466b881562369f0a100dfd0c8d1
@@ -8,8 +8,8 @@ inventory:
     md5: e8e74466b881562369f0a100dfd0c8d1
     time: 1580235443
   "/about/index.html":
-    md5: 75131909be0dd30f870cdd413e48b2d2
-    time: 1524512433
+    md5: 3200df33fc584ab2afd14b717990ce7b
+    time: 1664578900
   "/events/index.html":
     md5: e93b976cb6964549783fee0b6130896d
     time: 1580235443
@@ -134,17 +134,17 @@ inventory:
     md5: 0faa2cbd517b83cd4e28572b269a472a
     time: 1454540934
   "/donate/index.html":
-    md5: 5cf5ca2b73863beebec10da0c9f3a144
-    time: 1554767877
+    md5: 356f47b95bd71c3c2aa8cd59eb2674f1
+    time: 1664578901
   "/contact/index.html":
-    md5: 102c670c29f8e5a87e90a5decd840e9c
-    time: 1445373674
+    md5: e8550d50124739c8f23b0386908cfaa6
+    time: 1664578901
   "/about/3-day-renewal-experiences/index.html":
     md5: 737fdd18e3ceae814b6aca300c54494a
     time: 1554767877
   "/about/lectionary-reading-weeks-for-preachers/index.html":
-    md5: 20fbf292daa1279dafce8c78768ecb3b
-    time: 1445889905
+    md5: 6b30045d624f297980478c39f4105e92
+    time: 1664578901
   "/about/leadership-retreats-and-training/index.html":
     md5: 92bd55274934d5c08fe5983ebc0c2060
     time: 1445373674
@@ -158,11 +158,11 @@ inventory:
     md5: 053e51cc6ecf1f37a1105667ba3def74
     time: 1420695099
   "/sitemap.xml":
-    md5: 878249c5a18926e6f29828e6f2c4cfc9
-    time: 1580235445
+    md5: 117675340ff38aee2e85661d78ae0200
+    time: 1664578901
   "/feed.xml":
-    md5: 4e214cd5c855e192e6476014b38feeae
-    time: 1580235445
+    md5: 50f721198f4a5385519929db6df6a72c
+    time: 1664578902
   "/apple-touch-icon-114x114-precomposed.png":
     md5: 4b32f9176044704b1d5b97479282a2fc
     time: 1419980483
@@ -346,9 +346,6 @@ inventory:
   "/assets/DSCN0867.JPG":
     md5: e414d032a3d2c212cd98eaf5632912d4
     time: 1419991833
-  "/assets/2015-Reading-Week-Brochure.pdf":
-    md5: 661303ed95584e20f0fbfb3c374b8474
-    time: 1445889905
   "/assets/Photo 1.jpg":
     md5: 8fcb54d63dbfc7ba1138d37d604ba55f
     time: 1454543714
